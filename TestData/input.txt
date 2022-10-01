@@ -1,0 +1,3090 @@
+
+in this issue
+MESSAGES
+FEATURED ARTICLES
+Cartographic animation: potential and research issues
+Dori.;; Karl
+Visuali.ling uncertain information
+Ala11 M. MacEachre11
+BOOK REVIEWS
+'vtaltman, A.
+Geologicnl Maps
+rt'Pll'1tWf /Jy Nor111a11 Meek
+Maguire, D.J., M.F. Goodchild, and D.W. Rhind (eds.)
+Gcograpilical i11for111atio11 systems: principles a11d applications
+n•.uicwed /Jy E. Ly1111 Usery
+CARTOGRAPHIC PERSPECTIVES ON THE NEWS
+LA .DsA T Update
+RECENT PUBLICATIONS
+ANNOUNCEMENTS
+CARTOGRAPHIC EVENTS
+NACIS NEWS
+NACIS XII PROGRAM AND CONFERENCE SCHEDULE    
+1
+3
+10
+20
+21
+22
+23
+25
+26
+27
+31                 
+messages
+MESSAGE FROM NACIS XII
+PROGRAM CHAIR
+The Twelfth Annual Meeting of
+ACIS will be held October 14 - 17
+in St. Paul, Minnesota. As always
+the NACIS Conference will
+provide an open and professional
+atmosphere for the exchange of
+information and ideas for all who
+are interested in maps and cartography. 
+This year's program
+promises to be quite exciting.
+Highlights include addresses by
+the dean of American cartography,
+Arthur H. Robinson, and John
+Fraser Hart, former president of
+the Association of American
+Geographers.
+The latest research developments in cartography, most
+notably in the areas of animated
+mapping, cognitive cartography,
+cartographic education, and map
+librarianship will be presented.
+Other sessions will explore recent
+developments in software and
+hardware for cartographic production, federal mapping initiatives,
+and map library services and
+access. In addition, this year
+ACIS will be sponsoring a series
+of "hands-on" workshops on
+animation in cartography and
+thematic map design using the PC. 
+cartograpllic  perspectives
+bulletin of the
+North American Cartographic
+Information Society
+Editor:
+Sona Karentz Andrews
+Department of Geography
+208 Sabin Hall
+3414 N. Downer Avenue
+Univ. of Wisconsin-Mihvaukee
+Milwaukee, WI 53211
+(414) 229-4872,
+e-mail: sona@csd4.csd.uwm.edu.
+Assistant Editor
+David W. Tilton
+Department of Geography
+Univ. of Wisconsin-Milwaukee
+Milwaukee, WI 53211
+e-mail:
+tilton@convex.csd.uwm.edu.
+Copy editor
+Mark Zi111111ennan11
+ISSN 1048-9085
+C1rtographic Perspectives
+is published triannually
+Several field trips are also planned
+to familiarize conference participants with the Twin Cities and
+their cartographic centers. NACIS
+members should have recently
+received (or shortly will receive)
+information and a registration
+form for the meeting. We have
+also published a preliminary
+conference schedule on pages 31 -                          
+33 in this issue of CP. Do not
+hesitate to contact me if you have
+any questions or wish to receive
+additional information and
+registration material.
+Jeffrey C. Patton
+Progrn111 Chair NACIS XTI
+Depart111e11t of Geogrnphy
+University of North Carolina -                   
+Greensboro
+Greensboro, NC 27412               
+MESSAGE FROM THE EDITOR
+This issue marks some changes for
+Cartographic Perspectives. Although
+the design and overall look of the
+publication remain the same (at
+least I hope it does when it goes to
+press), there have been some
+significant changes. One of these
+is a change in editorship of the
+journal. David DiBiase, who had
+served as editor of CP since its first
+issue in March of 1989, completed
+his tenure as editor with issue No.
+12 (now known as the "white
+issue"). I know I speak for every
+ACIS member in thanking Dave
+for making CP a journal of high
+quality in both its content and
+design. I personally appreciate his
+assistance in making the editorial
+transition go smoothly. Many of
+the contributions in this current
+issue were initiated, and in some
+cases already completed for me, by
+Dave and his staff at Penn State. l
+can only hope that we can continue to produce a publication of
+equal quality.
+Another notable change marked
+by this issue is that instead of a
+single Featured Article, this issue
+has two Featured Articles. It is my
+hope, and that of the Editorial
+Board, that this precedent continues 
+and that the cartographic
+community benefit from the
+increased scholarly contribution
+that CP can make. We wish to
+encourage submission of manuscripts 
+as well as all other items of
+interest for publication consideration. 
+Guidelines for papers and
+submissions appear at the end of
+this issue.
+We will be publishing CP three
+times per year. We have targeted a
+Fall, Winter, and Spring publication schedule. This issue (Number
+13, Fall 1992) has important
+information about NACIS XII.
+The meeting will be held in St.
+Paul, Minnesota from October 14 -                          
+17.  ACIS members should have
+already received (or shortly will
+receive) a conference schedule        
+program and registration forms,
+however, we have also included
+this information on pages 31 - 33 of
+this issue. You should note that
+NACIS is conducting three workshops 
+this year: Macintosh Animation, IBM Animation, and Map
+Production and Design These
+workshops will provide an excellent 
+opportunity to get hands-on
+exposure to some of the new and
+exciting techniques that are
+changing the way we conceive,
+store, and use maps. I urge
+anyone that can take advantage of
+these workshops to do so.
+Finally, I would like to encourage each of you to let us know if
+you have suggestions for improving the quality and content of CP.
+Your input will be greatly appreciated and not ignored. I look
+forward to serving as editor and
+hope that the information we
+provide through CP is interesting,
+informative, and beneficial.
+Sona Karentz Andrews
+a passing
+On June 7, in Chicago, Illinois,
+Barbara Bartz Petchenik died of
+cancer at the age of 52. Barbara
+was a member of  ACIS and
+throughout her professional career
+Barbara integrated scholarly
+research interests in the nature of
+spatial knm.vledge and mapping
+participation in commercial
+cartography.
+Barbara was a Senior Sales
+Representative for R.R. Donnelley
+Cartographic Services, Mapping
+Services Division since 1975. From
+1970 to 1975 she was Cartographic
+Editor of the Atlas of Early American 
+History, and from 1964 to 1970
+was Cartographic Editor and Staff
+Consultant in Research and Design
+for World Book £11cyclopedia. She
+co11ti1111ed 011 page 25 
+Number 13, Fall 1992                   cartographic perspectives                        3
+featured articles
+The potential of computer animation has been realized in many different disciplines. Animation is also a powerful visualization tool for
+cartography; however, it has been neglected until recently. This paper
+portrays the need for animation in cartography in the light of the new
+approaches and methods in the sciences as well as in society. It discusses 
+two main reasons for the lack of animation in cartography: the
+fixation on the printed map and the absence of a comprehensive approach to cartographic animation. Finally, a variety of issues for further
+research are proposed.
+C 
+omputer animation has become an important visualization tool in
+recent years. Improvements in computer hardware and software
+have made the widespread use of computer animation possible. The
+potential of computer animation has already been realized by different
+disciplines, for example the film industry, architecture, fashion design and
+the sciences.
+Computer animation also has many potential uses in cartography. It
+allows the creation of map sequences that can show spatial information
+dynamically. Animated map sequences can depict time directly as a
+cartographic variable, they can depict information mapped in different
+ways; and they can present the map objects in a particular sequence. But
+do we really need this sort of information display? Can animation really
+show more than the presentation forms we already have, or is animation
+only a toy for cartographers? To answer this, vve need to examine the
+modern approaches and methods in the sciences as well as in society.
+Spatial science has changed from the analysis of static states to the study
+of processes. Researchers are no longer interested in studying only static
+situations; they are more concerned with changes and forces that induce
+or cause different states. Maps are an important tool for spatial scientists.
+The static map, however, is not able to show processes directly. Of course,
+cartographers have developed different methods for depicting changes,
+but all of these methods reduce the dynamic aspects of reality to static
+states that can hardly show the changes that take place. Cartographic
+animation can do more by making the dynamic aspect of spatial changes
+visible to the map user. Processes become more transparent using animation for their visualization.
+Spatial science has also been influenced by system theory. Scientific
+investigations are no longer concerned only with isolated phenomena;
+they examine particularly the relationships and correlations of different
+phenomena. Scientists need a representation form that can show all the
+correlations. Static maps are not the best presentation form for displaying
+these relationships. Often, maps are overloaded with information layers
+to show the many correlations. ln an animated map sequence, map
+elements can be presented in different orders and combinations to make
+the spatial relationships more apparent. The map user can be directed
+through the presented subject, and the correlations can be brought to the
+user's attention.
+In the late 1980s, the sciences discovered scientific visualization. It is
+used for data analysis to see patterns that either answer questions or that
+pose new and unexpected questions. Scientific visualization requires
+computer animation, especially interactive animation, that can show the      
+Cartographic
+Animation:
+Potential and
+Research
+Issues
+Doris Karl
+THE  EEO FOR ANIMA TIO
+IN CARTOGRAPHY
+Doris Karl is a stude11t at the
+Freie Universitiit Berlin,
+Fachricht1111g Knrtogrnplrie
+Amo-Hol:-Str.12, 0 -1000
+Berlin 41 
+4                           cartographic perspectives              Number 13, Fall 1992
+THE EM Pf CASIS 0 . THE
+TRADITIONAL PRl TED MAP--
+AN OBSTACLE TO CARTOGRAPHIC ANIMA TTO.\J   
+data set in many different ways. The static map does not have this
+flexibility in information display; it can show information only in one
+\•;ay, so it is not a suitable instrument.
+Finally, one should look at the map users of the future - the children of
+today. This young generation is often called "the video generation" because
+it has grown up with video and computer games. These children are more
+accustomed to the computer than most adults; the interactivity and dynamic
+aspects of computer games are a matter of course for them. At some schools
+computers with interactive and dynamic programs are used as a didactic
+device lo rouse the students' interest. Jn this respect, cartographers have to
+ask if the traditional static map will be a good communication medium for
+these future map users or whether we should look for alternati\'e forms.
+Animated map sequences that can be controlled interactively are an alternative.
+It seems that cartographic animation is more than a nice toy and should
+be viewed as a powerful visualization tool for cartography that transcends
+the potential of the printed map. In spite of this potential, computer
+animation has been neglected in cartography until recently. Two main
+reasons for the absence of animation in cartography will be discussed in
+the following two sections. The first and most important reason is the
+fixation on the paper map; the second, resulting from the first, is the
+absence of a complete and systematic approach to cartographic animation.
+The traditional printed map is regarded by cartographers as an excellent
+form of presentation. IL is considered to be a product that has ilttained near
+perfection in a long evolutionary process. Many representational methods
+and techniques have been developed for topographic and thematic maps
+which, in general, enable the creation of good maps. Also, the map user is
+accustomed to the printed map and presumably he wants to have a "real"
+map, a paper map. Thus, one can say that the traditional printed map is a
+standard for both the mapmaker and the map user.  'ew techniques and
+methods, such as the use of computers in cartography, are always compared
+with and measured against the printed map and evaluated accordingly. This
+is perhaps especially true in Europe as Gillessen (1986, p.53), a German
+cartographer, states:
+"Thi! t?xcellence of maps produced in Central Europe placL"i high quality demands
+on altern,1tive mapping •.olutions and is therewith a standard of qua lit~    for all new
+de\'Clopmcnh m c.utography. [ ... ]One would go so for as to sa\ that the high
+standard of cartographv in Central Europe has hampered the development and the
+willingne-.s to accept the products of any new technology[ ... [ in cartography."
+This c.1uote illustrates the extent of Lhe fixation on the printed map. As
+a result of this thinking, other and perhaps better information displays
+are overlooked and the standard map is not placed in question.
+If one asks why the traditional map is used as the standard, many
+arguments are listed in its favor:                      
+- traditional maps are though to be more attractive than computer
+generated maps;        
+- text, line and other symbols are though to be more "alive" on a traditional 
+map and not as artificial or synthetic in appearance;                                      
+- it attracts the eye and keeps the map user's attention.
+All these arguments are based on the aesthetic impression of a map.
+The exterior appearance is a very important criterion in its evaluation.
+The importance of beauty in a map can also be found in a common
+definition of cartography as the art and science of map making. But, can
+the aesthetic value of a map continue to be one of the most important 
+Number 13, Fall 1992                   cartographic perspectives                        5
+criteria for judging the quality of a map? "'vtaps are the carrier'> of information in the process of communication and should they not be e\'aluated in
+this light as well? So the question to ask is whether the traditional map is
+really the best presentation form.
+The use of computers in cartography offers new forms of information
+display. Howe,.er, because we are still fixated on the traditional map, we
+overlook this potential and use the computers predominantly to mimic
+manual methods.
+If one looks more closely at the application of computers in cartography, 
+one sees that they have been extensively used to shorten time and
+work intensive tasks. Data processing and drafting have been automated
+and interactive computer systems now facilitate the map de!:iign process.
+Languages like Post!:icript allow the direct transfer of maps between the
+display and the image setter. The main efforts have been directed in
+making computer-created maps as good as the traditional map.
+The fixation on the printed map ''"'ithin computer cartography can be
+further demonstrated with regard to the German ATKIS project (Authorized 
+Topographic Cartographic Information System) that will contain the
+data of the topographic maps of Germany in digital form. The purpose of
+ATKJS is to make possible the digital production of topographic maps that
+can be updated quickly and easily, and the creation of special purpose
+maps of single topics. The maps that are generated from ATKIS are the
+traditional paper maps.  ew forms of information display are not a goal
+of A TKlS. Harbeck (1989, p.98), one of the designers of A TKIS, states in
+this context:
+"Without doubt at the end of the digital topographic mform,11ton sy .. tem tht.!re b the
+cartogrnphic output   the map. \\ hether this product i., on the compuh:r display or a
+printed map depend., on the user. But surely it can be .,tah:d that th!.! color printed
+m,1p will continue to h.we its importance - perhaps en•n gain in import,1nce as a
+commud1t\"
+The fixation on the traditional map and on paper as the primary output
+medium is strongly present within cartography. Jf we do not overcome
+this fixation, we may ignore new forms of information display and we
+may not reali7e their potential.
+As a result of the fixation on the printed map, other forms of information
+display have been overlooked and too little research has been done in this
+area. This is true for cartographic animation.
+The potential of animation for cartography was initially described by
+Thrower (1961) and by Cornwell and Robinson (1966). l\evertheless, only a
+small amount of work has been done in this field. In the 1970s, when
+computer animation became available, indi\'idual cartographers used animation predominantly to show spatial changes over time. The efforts were
+focused on producing animated map sequences for special issues like the
+grO\vth of a city (Tobler 1970), traffic accidents (\1oellering 1976), population
+gro\.vth in urban regions (Rase 1974) and animation of three dimensional
+objects (Moellering 1980). Most of the 1980s saw no further work in cartographic animation.  ot until the end of the 1980s was cartographic animation rediscovered when cartographers realized the potential of animation for
+the depiction and exploration of spatial and statistical relationships and
+patterns. Some authors again called attention to the potential of cartographic
+animation (Campbell and Egbert1990),and a few new animation techniques
+were suggested for the analysis of spatio-temporal data (Monmonier 1989
+and 1990) and the study of geoscientific processes (OiBiase et. al. 1991). In  
+THE ABSENCE OF A COMPREHE 
+SIVE APPROACH U\'
+CARTOGRAPl IlC A IMATlON-- ANOTHER OBSTACLE 
+6                          cartographic perspectives              Number 13, Fall 1992
+REQUIRED RESEARCH   
+addition, a program for animating choropleth maps was created (MacChoro
+II 1989).
+All these works employed the application of cartographic animation.
+Most of them exclusively deal with the reali7ation of an animated map
+sequence for one special issue. Only the later works pick up a more
+common and extensive attempt at the cartographic application of
+animation.
+These are important contributions, but they arc individual solutions to
+individual problems. A comprehensive and systematic approach to the
+use of animation in cartography does not exist. Ytany essential issues
+have not been examined. Therefore, basic kno'vvledge about design,
+perception and production of animated map sequences is not available.
+There are no principles that tell cartographers hO\'\' to make and design
+animated maps. Without extensive knowledge of the creation of animated
+maps, cartographic animation cannot be applied widely and efficiently; it
+can be used only sporadically because too many design issues will need to
+be worked out for each single application. If the influence of animation in
+cartography is to increase, we must expand our knowledge about cartographic animation and develop a comprehensive and systematic approach
+to it. This will require intensive research in different areas.
+Future research in cartographic animation has to deal with a
+variety of questions. The following issues must be examined:
+Definition of cartographic animation
+The absence of a systematic approach to cartographic animation becomes
+particularly evident when we arrive at the question: What is cartographic
+animation? There docs not seem to be a consensus. Can animation be used
+only for map sequences that depict changes over time, or can it also be used
+for map sequences without a time element that show changes in the presentation form orcreatea map in a sequential form? Can animation be used only
+for complex map c;,equences created by a special animation technique, or is a
+simple "slide show" abo an animation? What are the characteristics of
+animation and how can it be defined? This should be the first question to be
+examined.
+Cartographic applications
+Most of the work in cartographic animation has been done in this area.
+However, the issue has not been handled in its entirety. Further work
+must investigate which other or new forms of animation are possible and
+whether they are useful. For this we have to examine different map types
+and their possibilities for cartographic animation. Perhaps we \vill find
+new forms of animated maps. A great deal of experimentation must be
+done within this issue.
+Graphic design of animated maps
+Animated map sequences are different from the maps \\'e ordinarily use.
+They are predominantly displayed ona CRT, are not static but dynamic, and
+are often shown very quickly. We must examine how such maps must be
+designed. Some research on the design of maps on the computer display
+already exists and we can also look to television to find some ideas about the
+layout of pictures and the use of color. The next question is: Must we consider
+the dynamic aspect of map sequences when \Ne symbolize single maps? For
+example, how do weselectdifferentdensities in an animated choroplethrnap
+sequence, or what about labeling isolines in an animated map? And finally,
+there is the aspect of map complexity. In an animated map sequence the user 
+Number 13, Fall 1992                  cartograplzic perspectives                         7
+will see a single map for only a short time, so the map cannot be too complex.
+But how complt.?'\ can the map be? These issues must be tested.
+Legend design
+Animated map sequences are different than static maps, therefore, the
+legend, the explanation of a map, should be different in an animated map.
+How must it be designed? Multimedia offer the possibility to combine
+animation .with sound. Therefore, the legend can be an audio explanation.
+But is an audio explanation sufficient for the complete understanding of
+the animation, or must it be completed by a visual legend? If we need a
+graphical legend, we have to think about the design. Surely, it would
+have to be a dynamic legend; ho.wever, it also must be readable for the
+user.
+Speed of animated sequences
+We know that in computer animation 20-25 pictures ph second are
+required for the perception of a continuous movement or change. But we
+do not know how fast an animated sequence created for the depiction of
+relationships must be, so that the user can recognize the objects and
+relationships of the map sequence. This is a problem especially for
+animation on video because the sequences cannot be controlled by the
+user and the speed cannot be changed.
+Creation and control of an animated map sequence
+Cartographic animation will become a widespread visualization tool only
+if the creation of animated map sequences is not too difficult. A user
+interface that allows the user to produce animations easily has to be
+designed. For thb, useful cartographic animation functions such as
+changing the view-point or moving an object must be defined and arranged in menus. With these various animation operations, the user has
+the potential to compose complex animation sequences. Ideas for this
+have been suggested by Monmonier (1989). A second and very important
+point is the interactivity of an animation. If animation is to be more than
+just a film, it must have the possibility of interaction. Animation systems
+should have the minimum ability to stop and restart the sequence and to
+change the speed. The animation for graphical exploration of a data set
+must have a \'ar1ety of controlling functions. We have to think about the
+whole range of interactions that cartographic animation requires.
+Animation techniques
+We also need more knowledge of the different animation techniques and
+for what types of animation they work best. Our experience in this area is
+limited because only a few cartographic animations ha,.e been realized.
+Gersmehl (1990) has examined this issue and describes nine animation
+metaphors and their use. Further work should expand this subject.
+Cartographic animation requires a variety of research on design,
+creation, and use of animated map sequences. Because of the potential of
+animation for cartography, more attention to research is required in this
+field.
+The potential of computer animation has already been realized by different disciplines. It can also be used for cartography as a powerful visualization tool that transcends the potential of the printed map. With animation, dynamic and interactive map sequences can be created that show
+changes over time or can be used to depict or explore spatial and statistical relationships.                                                     
+CO CLUSIO>J 
+8                           cartographic perspectives              Number 13, Fall 1992
+REFERE. CES       
+e\'\' approaches and methods in spatial sciences such as the strong
+emphasis on examining processes and correlations and the use of scientific
+visualization require a more dynamic and user-oriented form of information display that is not possible ,,.ith the printed map. Also, the map users
+of the future, the children of today, who are more accustomed to interactive computers, will probably ask for more dynamic and interactive forms
+of information display.
+In spite of the need for computer animation in cartography, it has been
+neglected until recently. There arc two main reasons for this. The first is
+the fixation on the traditional printed map that is strongly present within
+cartography. As a result of this thinking, other and perhaps better forms
+of information display such as computer animation ha\'e been overlooked.
+The second reason is the absence of a comprehensive approach to cartographic animation. Because of the fixation on the traditional map, too
+little research has been done on cartographic animation. Only some
+research has dealt with the application of animation in cartography, and
+many essential issues ha\'e not been examined. Therefore, basic knowledge about design, perception and creation of animated map sequences is
+not a\.ailable. If the potential for animation in cartography is to be realized, we need a comprehensive and systematic approach to cartographic
+animation. This"' ill require intem.ive research focusing on the definition,
+application, design, creation and control of animated map <>equences as
+well as on animation techniques and their uses.
+Campbell, C. S. and Egbert, S. L. 1990. Animated cartography: thirty
+years of scratching the surface. Cartogmphicn. 27 (2):24-46.
+Cornwell, B. and Robinson, A. 1966. Possibilities for computer animated films in cartography. Cartographic foumal. 3(2):79-82.
+DiBiase, D., MacEachren, A. M., Krygier, J., Reeves, C. and
+Brenner A. 1991. Animated cartographic visualization in earth
+system science. Proceedi11gs of the 15th !CA Co11fem1ce,
+Bornemouth:223-232.
+Gersmehl, P. 1990. Choosing tools: 'ine metaphors for map
+animation. Cartographic Perspectrues. 5(Spring):3-17.
+Gillessen, W. 1986. Automatische Herstellung von Schummerung und
+deren Nutzen flir die Umweltplammg. Digita/e Tec/1110/ogie in der
+Kartograpltie. Wiener Symposium 1986:52-62.
+Harbeck, R. 1989. Digitale und analoge Technologien in der
+topographischen Landeskartographie. Wiener Schrifft•11 :11r
+Geographic 1111d Knrtogmphie. 2:89-100.
+Moellering, H. 1976. The potential uses of computer animated film in the
+analysis of geographical patterns of traffic crashes. Accide11t A11alysis a11d
+Prez•ention. 8:215-227.
+Moellering, H. 1980. The real time animation of three-dimensional
+maps. The A111crica11 Cartographer. 7:67-75. 
+Number 13, Fall 1992                   cartographic perspectives                        9
+Monmonier, M. 1989. Graphic scripts for the sequenced visualization of
+geographic data. Proceedings of GJS/Ll5'89:381-389.
+Momnonier, M. 1990. Strategies for the visualization of geographic timeseries data. Cartogrnphicn. 27(1):30-45.
+MacChoro II with Map Animation. 1989. Omaha, NE: Image
+Mapping Systems.
+Rase, W. D. 1974. Kartographische Darstellung Dynamischer
+Vorgange in computergenerierten Filmen. Kartogrnphische
+Nac/1ricl1te11. 6,:210-215.
+Thrower, N. 1961. Animated cartography in the United States. l11tematio11a/ Year/look of Cartography. 1:20-29.
+Tobler, W. 1970. A computer movie simulating urban growth in the
+Detroit region. Eco110111ic Geography. 46:234-240.
+El potencial de animaci6n par computadoras ha sido descubierto en muchas
+disciplinas diferentes. La animaci6n es tambien un instrumento de
+visualizacion poderoso para la cartograffa; sin embargo, hasta hace poco es ta
+ha sido descuidada. Este articulo describe la necesidad de la animaci6n en la
+cartograffa a raiz de las nuevosenfoques y metodos tan to en las cienciascomo
+en la sociedad. Se discuten dos razones principales que causan la falta de
+animaci6n en la cartografia: la fijaci6n en el ma pa impreso y la ausencia de un
+enfoquecomprensi\'O hacia la animaci6n cartografica. Finalmente,se propane
+una variedad de temas para mas investigaci6n.                           
+RESUME~ 
+
+10                          cartographic perspectives              Number 13, Fall 1992
+Alan M. MacEachren
+Aln11 M. MncEnchre11 is n
+Profe:;sor i11 the Department of
+Gcogrnphy, 302 Wn/ka B11ildi11g, The
+Pc1111sylm11in Stntc U11hicrsity,
+U111per-.1ftf Pnrk, PA 16802.
+c-mnil: \JYB'a PSUVM.PSU.EOU
+When n GJS is used to compile,
+nnalyz.e, nnd display infor111ntio11, 
+the chance for 111zacceptable or variable data quality is
+high due to the merging of
+11111/tiple data layers.  
+Visualizing Uncertain Information
+When a GJS is used to drive map-based visualization, exploration of
+potential relationships takes precedence over presentation of facts. In
+these early stages of scientific analysis or policy formulation, providing
+a way for analysts to assess uncertainty in the data they are exploring is
+critical to the perspectives they form and the approaches they decide to
+pursue. As a basis from which to develop methods for visualizing
+uncertain information, this paper addresses the difference between data
+quality and uncertainty, the application of Berlin's graphic variables to
+the representation of uncertainty, conceptual models of spatial uncertainty as they relate to kinds of cartographic symbolization, and categories 
+of user interfaces suited to presenting data and uncertainty about
+that data. Also touched on is the issue of how we might evaluate our
+attempts to depict uncertain information on maps.
+U ncertainty i<. a critical issue in geographic \'isualization due to the
+tendency of most people to treat both maps and computers as
+somehow less fallible than the humans who make deci!>ions based on
+them. When a G!S is uc;ed to compile, analy;'e, and display information,
+the chance for unacceptable or variable data quality is high due to the
+merging of multiple data layers. Together with these data quality issues,
+the flexibility of data manipulation that makes GIS so powerful can lead to
+considerable uncertainty in map displays produced at various stages of
+G!S analysi .... This paper addresses a variety of conceptual issues underlying de\'elopment of \'i<;ualization tools that allow analyo.,t<; to take this
+uncertainty into account in their research and policy formulation acti,.ities.
+There io., a o.,trong tradition in cartography of attention to data quality.
+Only rudimentary steps, however, have been made thus far to deal \.\'ith
+the complex issues of \'isualizing data quality for multidimensional data
+displays used in image analysis and GIS application<;. The importance of
+this topic is evidenced by the decision of the National Center for Geographic Information and Analysis(. CGIA) to make visualization of data
+quality the first visualization initiative undertaken by the center.
+Kate Beard and Barbara Buttenfield (1991 ), presenting the  CGIA
+position, indicate that quality of spatial information "relates to accuracy,
+error, consistency, and reliability." These aspects of quality are meant to
+apply to more than locational verity. It is useful to begin consideration of
+qua!it\ i<.sues with the framework of the Proposed Digital Cartographic
+Data Standard (Vloellering, et. al., 1988), incorporating locational accu
+t Thl' idl'.1s prescntl'<.i here were -.tJmulatL'<i by an im it.1tion to p.1rliLip.1tl' in the \.ational
+Ccntt.r tor Gl·o~r.1ph11:         Information and Analy~is      SpL'<:i.1list'-. \kt•tm~     on V1su,11i/ation of
+Data Qu,1lity, lmll,1ti\ c 7. The p.1~r    beg.in ,1-. a "worJ..mg p.1pL.r.. (Visti.1li/ation of Data
+Unlcrt.1mt}: Rt•pre-.l·ntation.111-.sue~)                    th,1t w,i-. cin:ul,1tl>d onlv to the 25 particip.1nts of the
+mcl'tmg. The p.1p<.'r pr .. .-.cntt•d hen••" a rl'\'iswn ,rnd l''\p,111,ion of th.1t worJ..    in ~ p.1pcr
+that bt.>nt.>htt.>d from n ~.iction        of other participant-. to tlw initial idt.>.1-. a-. well .is from
+discussion on rL•latL'd issul>s r,w.cd during thl' llll'l'ting. I gratl'lully .Kknowll>dge the
+invitation and tr.wet support provided bv the 1'.CGI I\ through tlwir 1\ational Science
+Foundation Cr.int# 5F.5-lll'-1U917. 
+Number 13, Fall 1992                   cartographic perspectives                        11
+racy, attribute accuracy, logical consistency (i.e., a data structure whose
+topology makes sense), completeness (comprehensive data and systematic
+ways of dealing with missing values) and finally lineage.
+The above quality categories are important, but to use a GIS effectively
+for either scientific inquiry or policy formulation, the scope must be
+broadened. In risk assessment circles, the term uncertainty has gained
+some acceptance and I suggest that we might be better off if we follow
+their lead (Morgan and Henrion, 1990; Rejeski and Kapuscinski, 1990).
+Analysts never know the precise amount of error in any particular data
+object - otherwise they '"'ould correct the error. They are more or less
+uncertain about the available characterization of particular data objects.
+From this perspecti\'e alone, the term uncertainty might be a better
+description of what the NCGIA (and many past cartographers) ha,.e been
+calling quality. In addition, however, uncertainty includes something of
+importance beyond the narrow definition of quality that the  CGIA
+initiative seems to be directed toward. A brief example will illustrate the
+difference between a focus on quality and on uncertainty and why it is the
+latter that should guide our efforts.
+Imagine a single census block in a city. You have sent an enumerator
+out to lake the census. In this particular case, the response rate is 90%. In
+data quality terms, we might say that our population and income information for this block is of less than perfect quality because of the lack of
+"completeness" in the data. Further, there may be "attribute inaccuracy"
+in the data collected due to misunderstanding of the survey questions or
+deliberate misinformation about items such as income or education, or
+"spatial inaccuracy" due to address coding errors by the census enumerator. 
+If, in the adjacent census block we somehow achieved 100o/c participation in the census, everyone understood the questions and gave truthful
+responses, and the enumerator made no mistakes, a dnta quality assessment would label that unit's data as perfect. What we will be leaving out
+of this assessment is the issue of variability (over both space and time and
+within categories). This latter point is made quite forcefully by Langford
+and Unwin (1991) who argue that, for the mapping of most socio-economic phenomena, a choropleth map of aggregated data for enumeration
+units is "a poor choice" due to extreme within-unit variability that is the
+rule rather than the exception.
+ln addition to ,.ariability due to spatial aggregation, attribute aggregation 
+add ... additional variability, and therefore, uncertainty. All data are
+categori?ed. Even when individual measurements are retained in the
+database, categories will be implicitly defined by the mathematical
+precision of individual measurements. For example, temperatures might
+be measured to the nearest degree. Most data in a GlS, however, will be
+grouped into much broader categories (e.g., soil classifications, income
+brackets, whether a house has indoor plumbing or not, etc.). In all of these
+cases, the categorization introduces uncertainty even when the data are of
+high quality.
+We can only be certain that a particular location - a particular data
+object - fits somewhere \.Vithin the attribute bounds of the categories and
+the spatial bounds of the enumeration unit to which it is aggregated. The
+aggregate totals for our census blocks disguise the variability within those
+census blocks. Our level of uncertainty about map locations will be a
+function not only of the quality of values (as defined above), but of
+variance around the mean values we typically use to represent the unit,
+and of spatial variability across the unit.
+In addition to spatial and attribute data quality and variability, a final
+uncertainty to be dealt with is temporal. The data, even if accurate and      
+We can only be certain that a
+particular locatio11 - a particular data object-fits somewhere .within tlze attribute
+bo!lnds of the categories and the
+spatial bou11ds of the enumeration 
+1111it to .which it is aggregated . 
+12                         cartographic perspectives              Number 13, Fall 1992
+c
+0
+u'1l
+0
+.....J
+~"'
+:;
+.!::;
+CJ
+E
+i=   
+Accuracy
+position oi
+vegetation
+boundaries
+total HIV
+positive
+cases/county
+date of the
+last glacier   
+Precision
+state birth
+rate
+soil order
+mean
+monthly
+rainfall
+Fsure 1: E.\11111/'b llf li•pic' J•>r irhic/1
+/ocnthm11/, 11ttril>t1t1 .1111d l1'111/>0rt1/ ncrnrail( 1111d
+cntegorirnl J1rt'ci'11111 Cllllfr1/1111t• to 1111u.rt11i11ty.
+REPRESE TATIO. AL ISSUES   
+homogeneous, represent a snapshot at one point in time. Our uncertainty
+about their veracity will increase due to uncertainty about temporal
+information, resolution with \\rhich that temporal information is specified,
+and the difference in time between data collection and data use. The
+temporally induced uncertainty will vary with the kind of phenomena
+being represented.
+When we use a GIS, the important issue is the quality of the decisions
+we make - about a research course to follow, an urban development
+policy to impose, or an environmental regulation to enforce. Whether we
+use the term data quality or data uncertainty matters less than whether the
+tool we give the GJS user is adequate for deciding how much faith to put
+in any particular piece of information extracted from the database.
+We can have highly accurate data while still having imprcrne data. This
+lack of precision is at least as important an issue as a lack of accuracy.
+Precision here refers, not only to the specificity of data values in terms of
+significant digits, but in a more general sense to "the degree of refinement
+\.vith which an operation is performed or a measurement taken" (Weli:.ter'.;;
+N<:w Collegwte Dicticman1, 1974). In this sense it is an assessment of the
+resolution of categories by which a phenomenon is represented (i.e.,
+categorical precision). Although, mathematically, a population density of
+165.3-1 persons/ sq. mi. would be considered precise, spatially it is not if
+that county is 1000 sq. mi. in size. Abo, the map representation of the
+attribute (population density) becomes categorically imprecise when the
+data are aggregated into an attribute category ranging from 50-500 persons/ sq. mi. Figure 1 provides examples of topics for which map uncertainty is due primarily to accuracy or categorical precision.
+As has been pointed out elsewhere, the term r·i~11ali:ntio11            has a number of
+definitions (MacEachren and Ganter, 1990; \itacEachren, et. al., 1992).
+Here it will be considered a human ability to develop mental image,
+(often of relationships that have no visible form) together .with the use of
+tools that can facilitate and augment this ability. Successful visualization
+tools allo"v our visual and cognitive processes to almost automatically
+focus on the patterns depicted rather than on mentally generating those
+patterns.
+Following from the above conception of visualization, a research
+agenda to address visualizing uncertain information should include
+attention to the cognitive issues of what it means to understand attribute,
+spatial, and temporal uncertainty and the implications of this understanding for decision making and for symbolizing and categorizing uncertainty.
+At the most basic level, uncertainty can be divided into two components
+that might require different visualization strategies: \'isualizing accuracy
+and visualizing precision. In addition, attention should be directed toward
+the methodological, technical, and ergonomic issue:; of generating displays and creating interfaces that work. It is, of course, also essential to
+develop methods for assessing and measuring uncertainty before we can
+represent it. This latter topic, howe\'er, will not be addressed here.
+Varied goals and needs - categories of interaction with data
+If we continue to attack cartographic questions with our communication
+model \'isors on, \.Ve will fail to take advantage of the power that GIS and
+visualization tools provide. The search for the "optimal" data quality
+visualization tool might prove as fruitless as the search for the optimal
+graduated circle map. lt is critical to recognize that GIS and visualization
+tools attached to them are used for a range of problem types that may
+have quite different visualization needs in general, and visualization 
+Number 13, Fall 1992                   cartographic perspectives                       13
+quality needs specifically. David
+DiBiasc (1990) recently developed
+a graphic model of the range of
+uses to which graphics might be
+put in scientific research (fig. 2). I
+believe that his basic model is
+relevant, not only to science, but to
+applied spatial decision making
+with a GIS.
+As we begin to consider the
+visualization of w1certainty, we
+need to be cognizant of this range
+of visualization goals and environments 
+and the varying information
+requirements it implies. The kind
+of uncertainty and the tools used
+to visualize it are likely to vary
+across this range, from the use of
+GIS by an EPA scientist exploring
+the spatial distribution of a pollutant to the use of GIS driven map
+displays by policy makers trying to
+decide which industries to add to
+the list of those regulated for toxic
+waste emission.
+Graphics variables
+Because few GIS users are trained in cartographic symbolization and
+design, it will be necessary to create expert systems that logically translate
+information into graphic displays. Jacques Bertin, the French cartographer I graphic theorist, has had a tremendous impact on our approach to
+this problem. The Robinson et. al., text (1984) that is used by 50% of
+introductory cartography courses in the country (Fryman, 1990) cites
+Bertin's basic system of graphic variables (location, size, value, texture,
+color, orientation, and shape) as the fundamental units we can use to build
+a map image. Monrnonier and Johnson's (1990) recent guide to map
+design for environmental GIS also presents Bertin's system as an important organizing concept for well-designed maps. Weibel and Buttenfield
+(1988), in a paper on map design for GIS, and Muller and Zeshen (1990), in
+a paper on expert systems for map design, accept this system as a base to
+build from in designing expert systems for map symbolization.
+An important representation issue for visualization of uncertainty,
+therefore, is how Bertin's graphic variables (with possible additions or
+modifications) might be logically matched with different kinds of data
+uncertainty. A critical distinction, of course, is that between ordered and
+differential graphic variables which can be logically associated with
+ordered/numerical and nominal/categorical differences among phenomena. Of Bertin's original graphic variables, size and value are most appropriate for depicting uncertainty in numerical information, while color
+(hue), shape, and perhaps orientation can be used for uncertainty in
+nominal information. Texture, although it has an order, might work best
+in a binary classification of "certain enough" and "not certain enough"
+that could be used for either nominal or numerical data.
+Although Bertin ignored it, the graphic variable that is arguably the
+most logical one to use for depicting uncertainty is color saturation.
+Saturation, added to the list of variables by Morrison (1974), is sometimes              
+VISUAL
+COMMUNICATION
+Synthesis
+PUBLIC REALM
+Figun. 2: Tin• range ofl11nctio11s for
+maps i11 spa/ml analysis (from D1B1a'>c.
+1990, '"l'l'(id11c(•d l>y f1Crmissio11 of Earth
+and M111era/ Scie11ces). 
+14                          cartographic perspectives              Number 13, Fall 1992
+F('?ure 3: A catni11 (U.S. - Cmrndn) n11d
+n11 uncertni11 (Iraq - Kuwait) border.
+Figure 4: Depictio11 of a risk w11e aro1111d
+n 11uclear power pla11/ ns certain versus
+1111certai11.                                      
+referred to as color purity. Saturation could be varied from pure hues for
+very certain information to unsaturated (grey) hues for uncertain information. 
+Another variable, beyond Bertin's original seven, that seems quite
+promising as an uncertainty visualization tool is "focus."2 Presenting data
+"out of focus" (as you would see it with an out-of-focus camera), or
+simply at lower spatial resolution, might be an ideal way to depict uncertainty.
+Symbol focus can be manipulated in at least four \'l'ays:
+Contour crispness-The most obvious way to apply focus is to vary
+the "crispness" or "funyness" of symbol contours (edges). A certain
+boundary (e.g., the U.S. - Canada border) might be depicted with a
+sharp, narrow line, while an uncertain boundary (e.g., that between
+Kuwait and Iraq) might be portrayed with a broad fuzzy line that fades
+from the center toward the background (fig. 3). Similar "out-of-focus"
+symbols could be used to represent certain or uncertain location of point
+features, and an area may be depicted as not bounded at all, but as
+fading in a continuous fashion from core to periphery (fig. 4).
+Fill clarity- While contour crispness intuitively suggests uncertainty in
+position, the crispness of elements making up interior fills for an otherwise 
+precisely delineated area can be logically associated with attribute
+uncertainty. A sharp, distinct pattern, for example, might be used to
+indicate certainty while a less defined pattern might indicate uncertainty
+(fig. 5).
+Fog- The transparency of the "atmosphere" thnt an analyst views a
+map through can be controlled on some computer display devices. lt is
+possible to create what, in effect, looks like a fog passing between the
+analyst and the map - the thicker the fog, the more uncertain that part of
+the map (fig. 6).3
+Resolution-Often maps are produced in which attribute data, geographic position, and temporal position are depicted with very different
+resolutions. One method of communicating uncertainty would be to
+adjust the resolution of geographic detail so that it corresponds to that of
+attributes or time (e.g., adjust resolution with which coastlines are depicted 
+on a world map to correspond to the resolution of thematic information depicted) (fig. 7).
+Linking visualization tools to models of uncertainty
+Different uncertainty visualization issues will arise when dealing with
+different kinds of data (e.g., qualitative data on land use/land cover
+versus quantitative data from the census). When data are quantities
+aggregated to units such as counties, we should consider the spatial
+characteristics of the phenomena represented by these quantities as we
+select symbolization methods to depict the uncertainty about them. One
+continuum of spatial characteristics that can be identified is that from
+discrete (spatially fragmented) to continuous (spatially comprehensive)
+phenomena (Hsu, 1979). A second continuum relates to the character of
+variation in the phenomenon across space. Some phenomena (e.g., tax
+rates) can vary quite abruptly as political boundaries are crossed, while
+others (e.g., ga!Jons of ground water pumped for irrigation per county)
+can exhibit a relatively smooth variation quite independent of the units to
+which data are aggregated. MacEachren and DiBiase (1991) recently
+'This variable appears to have been origin,1lly suggested bv Dadd Woodward in a
+seminar at Wisconsin (D. Di Biase and j. Krygier, personal commumcation).
+'TI1is idea was offered by Michael Goodchild during the '\JCGIA Visualization of Data
+Quality Specialist Meeting. 
+Number 13, Fall 1992                   cartographic perspectives                        15
+proposed a series of graphic data
+models that represent locations in
+this continuity-abruptness phenomena 
+space (fig. 8). These
+graphil. data models correspond to
+a range of two dimensional
+symboli/ation methods, which
+include standard forms such as
+dot, choropleth, isopleth, and
+graduated symbol, along with
+some hybrid techniques designed
+to deal with the midpoints on the
+phenomena space axes (fig. 9).
+Three research questions suggest
+themseh.es here: Is it safe to
+assume that the spatial characteristics of uncertainty •.vill mimic those
+of the phenomena that uncertainty
+is being estimated for? Do specific
+symbolization methods actually
+communicate the particular spatial
+characterbtics that we as cartographers associate them with (e.g., is a
+layer tinted isarithmic map
+depicting uncertainty in air
+pollution estimates interpreted as a
+smooth continuous surface or as
+discrete uncertainty regions)?
+What approach should be followed
+when a data set has multiple kinds
+of uncertainty associated with it
+and the spatial characteristics of
+that uncertainty vary?               
+f\~ure    5: Ct'Tlt1h11111tl 1111ct'Tlm11 depiction of land C<>l'cr fy;oe.
+F1g11r1• t>:  Mnp 11/ flit' ecologicnl risk due f11 t•:onr. On tlie ldt, 1.'<1/111e:; dq11ct 11 compo,;ite risk
+User interfaces - How to merge data     i111fr.t n11d 1>11 //J1• right, Ille 1111certni11ty 111 t/1111 index is oPcr/nyt'd 11.; 11 "f11g" of rnryml'( t/1ickne~s
+and uncertainty representations
+Beyond the basic issue of how to        
+corrcsp<.md111g to 1'11YJ/ing degrees of 11ncertnint.11.
+represent uncertainty is the question of how and when to present the
+representation. This is complicated by the likelihood that GIS representations 
+are often products of a combination of measured and model-derived
+multivariate data. There seem to be three choices that could be used
+separntely or in combination:
+map pairs in which a data map is depicted side-by-side with a map of
+uncertainty about that data (fig. 10);
+seq11e11tinl presentation in which a user might be warned about uncertainty 
+with an initial map .which is followed by a map of the data (fig. 11),
+(or interactive tools that allow toggling between the data and the uncertainty representations);
+bi-variate maps in which both the data of interest and the uncertainty
+estimate are incorporated in the same map (fig. 12).
+Most attempts thus far to graphically depict uncertainty of spatial data
+have used the map pair strategy (e.g., Borrough, 1986; MacEachren, 1985;
+MacEachren and Davidson, 1987). Cartographers have spent relatively
+little time investigating the impact of sequential information presentation.
+Possibilities of interactive mapping and GIS, as well as animation, have      
+Fis11re 7: D<•sradin:.: of m1st11/ resolution (fro111
+top to liolf<>m) 11s an 111d1cntwn of the 1111cafc1111ty i11111odt'I 1>wd11ad 1111d-cretnteo11s ocean
+flmtts. 
+
+16                         cartographic perspectives              Number 13, Fall 1992
+t.ll
+:J
+0
+:J
+c
+.._,
+c
+0
+u     
+abrupt
+Fig1m. Ii: D11/1111w.fds rel''"'cutmg l'oi11t,; 111
+!IJL• ccm/111uity-nlm 1pl11t•ss l'il<'llOlll<'llll space.                              
+__,
+Q)
+.....Q)
+u
+t.ll
+t.ll
+:J
+0
+:J
+c
+.._,
+c
+0u     
+abrupt     
+"<9
+,.::• " ....           
+smooth
+smooth
+._.:.o..:                               
+begun to bring attention to this issue
+(Taylor, 1982; Slocum, 1988). One
+clear avenue to explore here is the
+potential of hypertext to allow users
+to navigate through the maze of
+data and uncertainty representations that we might be able to
+provide (e.g., use of graphic scripts
+to guide this process (\1onmonier,
+1992)).
+In relation to the third possibility,
+bivariate maps, the l..J.S. Census
+Bureau's bi-\'ariate choropleth maps
+from the 1970 census are perhaps
+the best known attempt to relate
+two \'ariables on one map. Experimentation with those maps by
+several researchers indicates that
+untrained readers have considerable
+trouble reading bi-variate maps
+(e.g., Olson, 1981 ). There are,
+hO\.vever, a number of bi-variate
+mapping possibilities that have not
+yet been investigated and previous
+attempts to use bivariate maps dealt
+\.vith two different variables rather
+than with a single variable related to
+its uncertainty. Color saturation (or
+intensity), for example, might be
+used as a graphic variable for
+depicting uncertainty on maps in
+which different hues are used to
+represent the data values of interest
+(e.g., on a land cover map). For
+printed maps in black and white, a
+combination of texture and value
+may be effecti\.e (see fig. 12). The
+variable of foett'> might be used in
+similar ways.
+In a dynamic visualization
+environment, it would be possible
+to combine sequencing and bivariate techniques and allow a fade
+from a data map, through a data/
+uncertainty map, back to the data
+map. For qualitative areal data (e.g.,
+soils) Fisher (1991) has suggested an
+animated technique to communicate
+the certainty (or uncertainty) of soil
+classifications for particular locations. 
+Jn his visualization system,
+duration with which pi,els are
+displayed in a particular color is
+matched to the probability of that
+pixel being in a particular soil 
+Number 13, Fall 1992                  cartographic perspectives                        17
+classification. Certain sections of lhe map remain static and uncertain
+sections exhibit continual blinking between (or among) the potential soils
+for that place.
+Evaluation of the utility or affect of providing uncertainty information
+IL is relah\ ely easy to think up techniques by which uncertainty might be
+represented. Before we try to put these techniques into practice (particularly in a public policy context), we should evaluate their potential impact.
+The representation of uncertainty about information in a GIS provides a
+unique opportunity to determine whether our efforts at map symbolization 
+and design research over the past 40 years have provided the tools
+required to develop a representation system. If past perceptual
+and cognitive research along with the conceptual
+models of symbol-referent relationships based on
+l'is11rc 11:                                                        semiotics are really
+<;i1111dntum •'f 1111
+i11taacti11c '<''lll<'llClll<i; sv,;tcm flint
+11lt1.n111fl', J1rc,;mtatim1 of tire rN<
+i11dcx mid the 1111arl11111t11111 ii
+useful, we should be able to use them
+to formulate hypothe     se~   and design appropriate
+e'\periments in our que<.t for ans.,,,.ers about
+visualizing uncertainty.
+This possibility may tempt some of us to go back to our roots
+in the communication model approach to cartography. Communication of
+data quality or uncertainty seems to be the ideal case for which the
+communication model was developed. uncertainty can be treated as a
+precisely defined piece of information that we want a GIS user to obtain.
+am afraid, however, that if we follow this narrow information theory
+approach we will hit the same dead ends that we did a decade or so ago.
+This time around we need to be aware of the range of human-user
+interactions with graphics that occur from initial data exploration to
+presentation. For exploratory applications, .where there is no predetermined message to communicate, we cannot judge uncertainty depictions
+using communication effectiveness standards. We can only evaluate these
+depictions in terms of how they alter decision making, pattern recognition, hypothesis generation, or policy decisions. We also must be aware of
+the fact that our (possibly) precise uncertainty information is conditioned
+by the social-cultural context in which decisions about what to represent
+are made (e.g., a variety of estimates exist about the reliability of the U.S.
+Census Bureau's enumeration of homeless persons), and by the limited
+ability of cartographers to determine the relative importance of various
+kinds of quality or uncertainty information in a particular context.
+In addition to the question of visualizing uncertainty, there is also a
+question of quality of visualizations to consider. One way to evaluate                                                   
+\ isualization of uncertainty tools, therefore, is to calibrate those tools in
+terms of their tendency toward type I and type II visualization errors
+(MacEachren and Ganter, 1990). Does providing uncertainty information
+(or pro\'iding it in a particular .,,,ay) lead to a failure to notice patterns and
+relationships (type Il), or to a tendency lo see patterns that do not exist
+(type J)? "v1.aps are re-presentations and as such are always one choice
+among many about ho\\ to re-present. There is always uncertainty in the
+choice of representation method, therefore, representing the uncertainty in
+our representations is an uncertain endeavor at best.                      
+Fig11re 10: A ra.<lt'r mnl' dL'pictirrs n composite
+l1l'i1itli mk mde.\ d11r lci air .md rmlrr ptill11tm11'
+fon lctt J and n dq•ict1v11c>f1111ca"1111ty tif tlw't'
+indi.x ml11c;;.
+Fis11r 12: Ri.;k n11d 1111Ct'rt11i11ty rrwrscd mf,1 a
+lih~1rintr        map 1L'itlr i11cre11si1111 risk l'<'JlrL'sc11tcd
+by d1•rreasi11s iyr/ue (darker ;./rndesJ and
+i11aetN11g 1111art11i11t11 n•1m•,,•11ti•d /111
+i11a,~i-111gh1           <'<~lr,,•       kxt111.c, 
+18                          cartographic perspectives              Number 13, Fall 1992
+ACK.'\JOWLEDGEMENTS
+REFERE CES   
+I would like to thank David DiBiase and Tony Williams for suggestions on
+an earlier draft of this paper, Alan Brenner for sharing ideas on bi-\'ariate
+maps of uncertainty, and Catherine Reeves m the Deasy GeoGraphics
+Laboratory for the production of most of the illustrations.
+Buttenfield, B. P., and Beard, M. K. 1991. Vbualizing the quality of
+spatial information. In Tecl111ical Papers 1991. ACSM-ASPRS Annual
+Convention. V. 6, Auto-Carto 10: 423-427.
+DiBiase, D. W. 1990. Scientific visualization in the earth sciences. Eart/7
+a11d Mineral Sciences (Bulletin of the College of Earth and Mineral Sciences). 
+The Pennsyl\'ania State Lniversity =i9(2): 13-18.
+Fisher, P. 1991. Modeling and visualizing uncertainty in geographic data.
+Position paper for the Visuali/ation of Data Quality Specialist's :vteeting,
+'.\.CCIA Initiative 7, 8-12 June, Castine, \1E.
+Fryman, J. F., and Sines, B. R. 1991. Anatomy of the introductory cartography course. Cartographic PerspecfiPes. 8: 4-l 0.
+Jenks, G. F. 1967. The data model concept m statistical mapping. T11tematio11al Year/look of Cartography. 7:186-190.
+Langford, M., and Unwin, 0. J. (in press). Generating and mapping
+population density surfaces within a geographical information system.
+Cartograpltic journal.
+MacEachren, Alan M. 1985. Accuracy of thematic maps: Implications of
+Choropleth Symboli/ation. Cartograpltica. 22(1):38-58.
+MacEachren, A., Buttenfield, B., Campbell, J., DiBiase, 0., and
+Monmonier, M. (in press). Visualization. In Geography's Inner Worlds, ed.
+R. Abler, \It. \11arcus, and J. Olson.
+MacEachren, A. M., and Davidson, J. H. 1987. Continuous geographic
+surfaces: Sample resolution, mtermediate value estimation accuracy, and
+isometric mapping. The Ammca11 Cnrtograpltcr. 14(4): 299-320.
+MacEachren, A. M., and DiBiase, 0. W. (in press). Animated maps of
+aggregated data: Conceptual and practical problems. Cartograpl1y and
+Geograpltic !11formntio11 Syste111s.
+MacEachren, A. M., and Ganter, J. H. 1990. A pattern identification
+approach to cartographic visualization. Carto~rapltica.            27(2): 64-81.
+Webster's New Collegiate Dictionary. 1974. Springfield, MA: G. & C.
+Merriam Company.
+Moellering, H.; Fritz, L.; Nyerges, T.; Liles, B.; Chrisman, N.;
+Poeppelmeier, C.; Schmidt, W.; and Rugg, R. (executive committee)
+1988. The proposed national standard for digital cartographic data. Tlie
+A111crica11 Cnrtograplter. 15(1): 9-142. 
+Number 13, Fall 1992                   cartograplzic perspectives                        19
+Monmonier, M. (in press). Authoring graphic scripts: Experiences and
+principles. Cartography and Geographic l11for111atio11 Systems.
+Monmonier, M., and Johnson, B. B. 1990. De~ig11      guide for e11viro11111e11tal
+maps. Trenton,  J:  e'vv Jersey Department of Environmental Protection,
+Oi\'ision of Science and Research.
+Morgan, M. G., and Henrion, M. 1990. Uncertni11ty: A guide to deali11s with
+1111catni11ty 111 q111111titntii•e risk and polity analysis. Cambridge: Cambridge
+University Press.
+Muller, J. C., and Zeshen, W. 1990. A knowledge based system for
+cartographic symbol design. The Cartographic fo11m11I. 27(1): 24-30.
+Olson, J. M. 1981. Spectrally encoded two-variable maps. A1111als of the
+A->socintio11 of America11 Geographers. 71(2): 259-276.
+Slocum, Terry A. 1988. Oe\'eloping an information system for choropleth
+maps. In Prcneedi11gs of the Third lnfl'mntional Symposi11111 011 Spatial Dnta
+Hn11dli11g, August 17-19, 1988, Sidney, Australia, 293-305.
+Rejeski, D. and Kapuscinski, J. 1990. Risk modeling with geographic
+i11for111ntio11 systems: Approaches and issues. Report of the U.S. Environmental
+Protection Agency, Office of Information Resources Management.
+Robinson, A.H.; Sale, R. D.; Morrison, J. L.; and Muehrcke, P. C. 1984.
+Elements of Cartography. (Sc) .. ew York: John Wiley & Sons.
+Taylor, D.R. F. 1982. The cartographic potential of Telidon. Cartographica.
+19(3&4):18-30.
+Weibel, R., and Buttenfield, B. P. 1988. Map design for geographic
+information systems. In GTS/LJS'BB Proceedi11gs: Assessing tin• World V. I,
+San Antonio: ACSM, ASPRS, AAG, LiRISA:350-359.
+Cuando se usan ma pas coma instrumentos de \'isualizaci6n, la exploraci6n
+de relaciones potenciales precede a la presentaci6n de datos. En estas primeras
+etapas de analisis cientffico o formulaci6n de normas, el proveer un modo
+parn gue losanalistas estimen la inexactitud en losdatos gueestan explorando
+es crftico para las perspectivas que formen y las enfoques quc decidan seguir.
+Este articulo sin.e de base para desarrollar metodos para la visualizaci6n de
+informaci6n inexacta. El artfculo habla de la diferencia entre la calidad de las
+datos y la inexactitud, la aplicaci6n de las variables graficas de Bertin para la
+representaci6n de la inexactitud, los modelos conceptuales de inexactitud
+espacial en cuanto a su relaci6n con clases desimbolizaci6n cartografica, y las
+categorias de interacci6n del usuario adecuadas para la presentaci6n de
+datos e inexactitud de los mismos. Tambien tratado es el tema de coma
+podrfamos evaluar nuestros intentos de describir la informaci6n inexacta en
+los mapas.                                                            
+RES UM EN 
+20                          cartographic perspectives              Number 13, Fall 1992
+reviews
+BOOK REVIEW
+Geological Maps: A11 llltroductio11
+Alex Maltman. '\iew York: Van
+i  ostrand Reinhold, 1990. 224 pp,
+maps, diags., and biblio. $49.95
+cloth (ISB : 0-4-12-30307-6).
+Rei1h7Ped by Norman Meek
+Oepnrt111e11t of Geograpliy
+Califomia State U11ii1ersity
+Sa11 Bernardi110.
+Geologic mappers arc perhaps the
+preeminent applied users of maps.
+The three-dimensional nature of
+most geologic phenomena means
+that geologists must be able to
+read and manipulate a twodimensional map in many ways
+unimagined by most geographers.
+Perhaps the most difficult course
+for undergraduate geologists to
+master is the geological field camp
+where geological maps are made.
+Thu5, the complexity of the
+techniques assures a need for
+illustrated books showing the
+fundamentab of geologic mapping.
+This book is a welcome addition
+to the sparse literature of this field.
+It is composed of fifteen concise
+chapters, each on a specific aspect
+of geologic maps: for example,
+cross-sections, portraying strike
+and dip, unconformities, and folds.
+The chapters are liberally illustrated with block diagrams and
+easy-to-read figures summari7ing
+various topics, and eight full-color
+geologic map plates are included.
+There are also chapters on topics
+peripheral to interpreting geologic
+maps, such as on old and new
+techniques of producing geologic
+maps, as well as on the heritage of
+geologic mapmaking in Britain,
+where geologic mapping essentially originated.
+The book is mainly limited to a
+discussion of geologic maps
+produced in Britain and its former
+colonies, especially the United        
+States, Canada, Australia and New
+Zealand. Discussion of geologic
+mapping in other regions is mainly
+limited to a few examples from
+France. Despite this limited
+geographic coverage, there are
+substantial international differences between geologic maps in
+the English speaking regions; the
+able comparison of maps produced by different mapping
+traditions is a laudable aspect of
+this book.
+Each chapter includes a brief
+introduction, a discussion of the
+topic, a chapter summary and an
+annotated bibliography. Accompanying each chapter are several
+map exercises demonstrating the
+principles introduced in it. Many
+questions are posed about each
+map, but it is left to the reader to
+complete them because no exercise
+solutions are included. Because
+the 24 map exercises are based on
+8.5'' ' 11" black and white maps,
+they can be easily reproduced for
+repeated personal trials or classroom use.
+It is apparent from the annotated bibliography that several
+books about geologic mapping
+have been published since I
+completed my geological field
+camp in 1981, when this kind of
+reference book was unavailable.
+Although this book would have
+been an extremely useful reference
+book at field camp, I might not
+have graduated if my instructors
+could have assigned some of the
+complex exercises that it includes.
+There is no question that anyone
+who is able to complete all of the
+exercises will ha\'e a thorough
+knowledge of geologic maps and
+the various interpretati\'e techniques that can be employed.
+There are some minor problems
+with this text, but none that
+discourage me from recommending it. Although I found a few
+typographical errors in the text
+and exercises, the typical American reader will find a surprisingly
+great difference between British      
+and American spelling of geological terminology, \Vhich could be
+confusing to the novice. In this age
+of computer-typeset texts, a
+publisher could ju5lify L\'\U printings of a scientific text •.vhen the
+terminology is this divergent, with
+each text using the lexicon of the
+appropriate audience. In addition,
+although this book is readily
+understandable to a geologist with
+a working knowledge of the
+geologic time scale and basic
+geologic principles, some of the
+text could be much more difficult
+for the typical American geology
+undergraduate to use without such
+background knowledge. More
+importantly, a few of the black and
+white exercises arc simply too
+complex to use con\'entional
+pattern symbols to differentiate the
+areas. For example, because I am
+familiar with the geology of the
+Baraboo, Wisconsin area, I am
+con\'inced that I could not determine the geological history of the
+region to the extent reque5tcd in
+the exercise, gi\.en the cartographic
+complexity of the map included.
+Thus, I am concerned that some of
+the other exercise maps might be
+similarly fla.wed. Finally, I would
+recommend that the next edition
+include a geologic time scale and a
+chapter I pamphlet of accompanying exercise solutions.
+Despite these criticism5, this
+book is an excellent reference text
+for field geologists. The diagrams
+explaining each topic are very well
+drawn, clnJ easily understandable
+without reference to the text.
+Although the book will be most
+useful as a reference or field camp
+text, for me the highlight of this
+book was the entertaining stories
+about some famous geologic
+mappers. Like many Welshmen,
+Professor Maltman is an excellent
+story teller. He has done as good a
+job writing captivating stories
+about some famous geologists as
+he has in clarifying the exceedingly
+complex techniques of geologic
+mapping. 
+
+Number 13, Fall 1992                   cartographic perspectives                        21
+BOOK REVIEW
+Geographicnl Information Systems: Principles and Applications.
+D.J. ~aguire,      M.F. Goodchild, and
+D.W. Rhind (eds). Essex, England:
+Longman Scientific & Technical,
+1991. Vol. 1, Principles, 649 pp.
+Vol. 2, Applications, 447 pp. $295
+Hardcover. (ISBN 0-582-05661-6)
+(Copublished in the United States
+with John Wiley & Sons, Inc., , ew
+York, (ISB  0-470-21789-8).
+Reviewed by£. Ly1111 Usery,
+Depnrfnrent of Geograplzy,
+U11iversity of Wisconsin,
+Madison
+Geographic Information Systems
+(GIS) have developed to a stage
+where production of a large
+reference compendium is not only
+feasible, as the editors state in their
+preface to this work, but necessary.
+TI1is two-volume set is a milestone
+in the continuing development of
+GIS in three respects: first, it
+presents a comprehensive view of
+GIS as an emerging technology;
+second, it provides a reference
+work for researchers and practicing GIS professionals; and third, it
+attempts to develop the basis of
+GIS as a discipline. The stated aim
+of the book is to assemble a team
+of international experts to write a
+major reference work on GJS.
+Although there is a significant
+North American and European
+(particularly the United Kingdom)
+bicis, the editors have accomplished this aim. With only a few
+flaws in the presentation, the work
+is a monumental achievement and
+will probably serve as the major
+GIS reference for some years to
+come.
+The book is well organized into
+four sections: 1) an introductory
+overview with eight chapters
+examining the definitions, history,
+settings, and critique of GIS; 2)
+principles of GIS consisting of 26
+chapters arranged into subsections
+concerning the nature of spatial       
+data, digital representation,
+functional, display, and operational issues; 3) applications of GIS
+with 22 chapters in four subsections concerning national and
+international programs, socioeconomic, en\'ironmental, and
+management applications; and 4)
+an epilogue which briefly summarizes the main ideas and presents
+projections for the future. The
+editors tie the work together by
+providing an introductory article
+for each of the first three sections
+and by authoring the epilogue.
+The book contains a table of
+contents, preface, and list of
+contributors with affiliation and
+research interests repeated in each
+of the two volumes. While each
+article contains its own reference
+list, each volume contains a
+consolidated bibliography of some
+60 pages, a six-page list of acronym definitions, an author index
+which includes page numbers
+where citations occur, and an
+extensive subject index. The
+repetition of the bibliography and
+indices allows each volume to be
+used independently but at the cost
+of the extra pages.
+The book is a good, comprehensive work meeting the need in the
+GIS area for such a reference
+volume. It is similar in some
+respects to the Mnmtnf of Photogm111111etry 
+and the Mm111nl of
+Remote Se11si11g published by the
+American Society for Photogrammetry and Remote Sensing, but
+unlike those manuals this book
+does not present a rigid, factual
+account of GIS. For example, one
+cannot use this book to learn how
+to program a quadtree data
+structure or how to use relational
+algebra to extract relevant geographical data attributes, as would
+be expected in a manual. The
+articles are more of a research
+approach, some with speculation
+and futurism. The book does
+provide an excellent overview of
+the general principles and applications of GIS, which is the intent. It    
+is aimed at advanced undergraduates, postgraduates, professionals,
+and research workers and succeeds at presenting the appropriate
+inforrnalion Lo Lhis larget audience.
+At the same time, GIS is an area
+where criticism has been scarce.
+This book is no different and the
+editors lament the fact that in the
+applications part of the work, no
+examples of GIS failures are
+included. The one chapter which
+does level criticism focuses on
+ideas of cartography's demise, the
+booster atmosphere surrounding
+crs, and the declarations of
+success before implementation or
+experimentation. That GIS leads to
+improved spatial analysis is
+usually not questioned, but this
+aspect is the weakest of the system
+and true spatial analysis is incorporated in few if any GIS. Several
+chapters in this work echo this
+criticism as well as the limitations
+of GTS to handle three-dimensional
+and temporal data. Also, the
+chapter criticizes GlS researchers
+and practitioners who are quick to
+adopt new paradigms (currently
+object-orientation has captured the
+GIS collective imagination) and
+hail them as the solution to representation of geographic data
+before any implementation or
+experimentation has been performed.
+The section on principles of GIS
+forms the core of this work and the
+editors' introduction identifies a
+small number of organizing
+principles which have emerged in
+GIS: raster versus vector, query
+versus product, and spatial
+analysis versus spatial information. 
+The principles are organized
+by identifying key scientific
+questions of GIS which include the
+nature of spatial data, digital
+representation, functional, display,
+and operational issues.
+The applications section is a
+good sampling of the possible
+types of GIS applications. Its
+limitation is that the breadth of the
+current and potential applications 
+22                          cartograpl1ic perspectives              Number 13, Fall 1992
+cannot be effectively represented
+in a ':>ingle volume.
+In the epilogue the editors
+reflect on the ideas presented
+throughout the book and make
+some statements about the current
+status of GlS with a prognosis for
+the future. It examines the outstanding issues in the research
+agenda, projections to the year
+2000, and hm ... GIS fits in the
+bigger societal future. Briefly
+examining its history, the editors
+think GIS is converging upon a set
+of generic issues through the use
+of technology. These issues
+include data capture, data modelling, accuracy, data volume, spatial
+analysis, user interfaces, cost/
+benefit analysis, and impacts on
+organization'>. An argument is
+made for geographic information
+science instead of the technology
+of GlS. While GIS was once seen
+only as access to maps, it is now
+viewed as access to the world
+represented by maps. Drawing a
+parallel to statistical packages, GlS
+is said to be at the stage of those
+packages in 1970. Sta tis tics
+emerged as a discipline, will GIS
+do the same or will it follmv the
+path of remote sensing and remain
+an interdisciplinary tool for all
+spatial scientists?
+While GIS has many of the
+trappings of a discipline, including
+journals, trade press, conferences,
+textbooks, college classes and
+curricula, is there a fundamental
+set of problems for GIS to examine? 
+Two views of GIS are put
+fonvard, one in which GIS follows
+the path of the quantitative
+revolution in geography in the
+1960s. Today few geographers,
+particularly human geographers,
+are concerned with quantification.
+This view portrays GIS as the
+Edsel of electronic data processing.
+The second view projects continued 
+com.ergence of ideas, disciplines, technologies, and a need for
+the various application areas to
+remain affiliated. The editors
+prefer the second view and          
+expound upon it in projections for
+GIS to the year 2000.
+In summary, the book is a major
+step in developing a comprehensive view of GIS. While one may
+not agree with the statements in
+the introduction or the epilogue
+(and there is contradiction among
+the contributors), the editors are to
+be commended for the production
+of such a reference work. Flaws,
+such as inclusion of the subsection
+titles only in the table of contents
+and not in the subsections themselves, 
+some cited references
+which do not appear in the reference 
+list or in the consolidated
+bibliography, and a few isolated
+grammatical errors, are minor.
+One major problem is the color
+plates. Most are too small to be
+effective (with as many as eight
+per page), particularly in the
+applications section, and in some
+cases the graphics are completely
+illegible. This problem notwithstanding, the book is an excellent
+presentation of the framework of
+GIS principles and provides a
+reasonable survey of the major GIS
+application areas with a few
+detailed examples. The editors
+elicit major themes in their introductions 
+and tic the 56 chapters
+together well. This work is likely
+to become required reference
+material for GIS students and
+practitioners; it certainly belongs
+on the bookshelf of every GlS
+researcher.
+cartograpl1ic perspectives
+on tlze news
+Landsat commercialization will
+reach a major milestone on September 30, 1992, when taxpayersubsidi7ed operation of the
+program ends. Landsat is the
+United States Civil remote sensing
+satellite system operated by the
+Earth Observation Satellite Company (EOSAT). EOSAT announced it would assume opera-     
+lion costs for Landsat on October
+1, saving the taxpayer $19 million
+in Fiscal Year 1993. Landsat 6 will
+be completed and delivered to the
+government in October and
+.oAA has scheduled its launch
+for January 23, 1993.
+The first Landsat was launched
+in 1972; since that time, an archive
+of over 2.7 million images have
+been created. These images are
+extremely valuable and useful for
+mapping, research, and monitoring the Earth's natural resources.
+The Landsat Thematic Mapper
+(T'v1) sensor collects data from a
+broad region of the electromagnetic spectrum that includes
+visible bands, near-infrared,
+shortwave-infrared, and thermal
+wavelengths. With Landsat's TM
+30 x 30 meter resolution and large
+area coverage (100x100 miles), the
+sensor provides detailed information 
+at relatively low cost per unit
+area, compared to aerial photography or other commercial satellite
+data. In addition, Landsat has
+repeat coverage every 16 days.
+TM data is well suited for many
+environmental applications and is
+used to inventory and monitor
+world resources, wildlife habitats,
+marine environments and minerals. 
+Carla Adams, at EOSAT, has
+compiled a brief description of
+case studies of environmental
+monitoring using Thematic
+Mapper data. Examples include
+the use of Landsat TM data to
+input information into a geographic information system by the
+Suwannee River Water Management District to help the regulatory 
+and planning staff assess
+where land cover is changing and
+to locate areas where land use
+could harm surface water. Shoreline changes in the Aral Sea are
+being analyzed by comparing the
+1977 Mi\115 mosaic and 1987
+mosaic. The United States National CoastWatch Program
+intends to use TM data to develop
+a comprehensive nationally
+standardi7ed GIS to assess changes             
+' 
+
+Number 13, Fall 1992                   cartograpliic perspectives                        23
+in land co\.er and habitat in the
+coastal regions of the United
+States.
+Because TM data provides
+current land cover information, it
+can be used to map urban cover,
+update urban-rural boundaries,
+and identify the urban fringe zone
+for planning. Further examples of
+TM data use for oil spill tracking,
+water quality assessment, air
+pollution, and global warming
+demonstrate the vast amount of
+analytical and mapping uses of
+Landsat imagery and data.
+Landsat 6 will provide even
+further value of this data to the
+mapping community with the
+introduction of a 15 meter panchromatic band.
+EOSAT is interested in making
+Landsat data grants available to
+researchers. Thev have made an
+agreement with 'ASA to dedicate
+up to 25o/c of productive capacity
+to the collection of re earch data
+selected by NASA, which will then
+pay 50'1 of the list price for this
+data set and .will distribute the
+data to researchers for noncommercial use. EOSA Twill use all
+revenues from these  ASA
+purchases to make grants to
+researchers.
+recent publications
+GEOGRAPHIC INFORMATION
+SYSTEMS
+A publication entitled Geograpllic
+lufor111atio11 Systems (GIS) and
+1\tfapping-  Standardization and
+Applications (Special Technical
+Publication (STP) 1126) is available
+from the American Society for
+Testing and \ifoterials. It contains
+twenty-six papers from a 1990
+Symposium sponsored by the
+United States Geological Survey
+and the American Society for
+Testing and \1aterials (ASTM)        
+Section D18.01.03 on Remote
+Sensing and 018.01.05 on Mapping 
+and GIS. The purpose of the
+symposium was to bring together
+engineers and scientists to provide
+a forum for exchanging experiences 
+and findings related to GIS;
+learn from a variety of applications; 
+promote technology transfer; 
+and provide educational
+resources for GIS, maps, and
+remote sensing. Persons desiring a
+copy of the publication should
+contact the ASTM :vfarketing and
+Sales Office, 1916 Race Street,
+Philadelphia, Pennsylvania 19103
+(215) 299-5536.
+A number of current publications
+are available from the American
+Society for Photogrammetry and
+Remote Sensing (ASPRS). These
+include: Geograpliic lllformatio11
+Systems: A Guide to tlze Tecl111ologi; 
+by John Antenucci, Kay
+Brown, Peter Croswell, \1ichacl
+Kevany, and Hugh Archer; Introductory Readings in Geograpltic
+Infonnation Systems, edited by
+Donna Peuquet and Duane
+Marble; Tl1e llltegratio11 of Remote
+Sensing a11d Geographic Information Systems (Proceedings of a
+special KCGIA session held at the
+1991 ASPRS-ACSM Annual
+Meeting). To obtain a price list
+and more information, contact:
+ASPRS, P.O. Box 1269, Evans City,
+PA 16033; (412) 772-0070, fax (412)
+772-5281.
+The Extension Service of the
+University of Minnesota has
+released a 12 page publication
+titled Introd11ctio11 to Data Analysis Using Geographic Information
+Systems. The publication provides basic information about the
+analytical capabilities of geographic information systems and
+describes some of the computer
+programs used by a GIS for map
+analysis. The cost of the publications is $2. To order, request item     
+NR-F0-5740 and send a check or
+money order payable to the
+University of Minnesota to:
+Distribution Center, 3 Coffey Hall,
+uniYersity Of Yiinnesota, 14-20
+Eckles Ave., St. Paul, MN 55108-60€H. 
+The Telephone number for
+the Distribution Center is (612)
+625-8173. Their Federal Tax ID
+number is 41-6007513.
+DIGITAL DATA AND
+ELECTRONIC ATLASES
+Strategic \>tapping has announced
+the release of StreetBase Plus files.
+The files are derived from
+Dynamap 2000, an enhanced set of
+TIGER files originally developed
+by Geographic Data Technology.
+Street Base Plus provides a higher
+address match rate when compared to StreetBase or standard
+TIGER files. StreetBase Plus files
+contain over 10 million valid
+address ranges, zip code information for all street types and unique
+street segments. In addition to the
+requirements for running Atlas
+Software, your system must be
+equipped with at least: 2 MB RAM
+and DOS 3.3 or higher. Contact:
+Strategic \1apping, Inc., 4030
+Moorpark Ave, Suite 250, San Jose,
+CA 951 17; (408) 985-7400, fax (408)
+985-0859.
+Omnigraphics has announced a
+new series: Tlze Om11i Gazetteer
+State Series. The series will cover
+all SO states individually and will
+be available starting in September
+with the Omni Gazetteer of Neu>
+York State. Each volume .will CO\'er
+Cl state's populated places, plus
+structures, facilities, locale ,               
+historical places, landmarks, and
+named geographic features. For
+more information contact: Paul
+Rogers, Omnigraphics, Inc.,
+Penobscot Building, Detroit, Ml
+-18226; (800) 234-13-W,
+fax (313) 961 -1383. 
+24                          cartographic perspectives              Number 13, Fall 1992
+Applied Optical Media Corporation has two CD-ROM atlases
+available for sale. American Vista,
+an atlas of the United States, has a
+visual interface that provides
+access to a rich multimedia environment 
+with more than 600
+Megabytes of maps, information,
+pictures, and sound. High resolution maps, topographical maps,
+resource and industry maps from
+Hammond inc, and searchabfe
+data from the 1990 U.S. Census.
+Retail price 579.95. World Vista,
+an international atlas, includes
+maps and data of the new republics of the old Soviet Union. It also
+has access to a rich multimedia
+environment with more than 600
+Megabytes of maps, information,
+pictures, and sound. It includes
+high resolution maps and data
+from Rand McNally. Retail Price:
+$79.95. System Requirements for
+both products are MPC: MPC or
+386sx PC with CD-ROM drive and
+sound and meeting MPC specifications 
+with 2 MB of RAM; at least
+6-l0x480, 256 color display capabilities (512K VRAM) and Windows
+3.1 (Windows 3.0 only if Multimedia Extensions 1.0 is properly
+installed). For the Macintosh:
+Color Macintosh with 2 MB RAM
+running System 7.0. For more
+information contact: Applied
+Optical Media Corporation, 1450
+Boot Road, Building 400,
+Westchester, PA 19380; (215) 429-3701, fax (21.3) 429-3810.
+MAPPING
+Microlmages Press recently
+announced the publication of A
+Guide to Map and Image Processing 
+by Dr. Merri P. Skrdla. This
+292-page, soft cover edition is a
+technical reference on the selection
+and use of a second generation
+desktop or laptop microcomputer
+system for integrated GIS, image
+processing CAD, spatial databases,
+A\.1/ FM, and desktop mapping.
+The retail price is 520. Contact:       
+Microlmages, Inc., 201 North 8th
+Street, Suite 15, Lincoln, l'\ebraska,
+68508-1347; (402) 477-95.3-l.
+MAPPING SOFTWARE
+GEOVISION, Inc. has released
+StatMapIII. StatMapill for
+Windows is a statistical mapping
+program that provides the capabil-
+ity to match demographic data
+values to geographic coordinate
+files in order to create thematic
+maps for analysis and presentation. 
+StatMaplII allows direct
+access to U.S. Census Bureau
+TIGER base map and 1990 Census
+databases. The minimwn system
+requirements are MS-DOS 3.31 or
+later, Microsoft Windows 3.0 or
+later, PC using an 80286 or better,
+2MB memory, Floppy disk drive,
+Hard disk (40 MB minimum), EGA
+or VGA graphics adapter and
+monitor, Microsoft Mouse or
+compatible device. Contact
+GEOVISJO, , Inc., 5680-B
+Peachtree Parhvay, , orcross,
+Georgia 30092; (404) 448-8224, fax
+(404) 447-4525.
+MAP USE
+The National Council for Geographic Education has published
+Tl1e Language of Maps, as the first
+monograph in their Pathway i11
+Geography Series. The publication,
+authored by Professor Phil
+Gersmehl of the University of
+Minnesota, is a supplementary
+manual that introduces students to
+the language(s) used to express
+ideas about spatial relationships.
+The volume is recommended for
+use in introductory courses in
+geography and map reading.
+Topics covered include: basic
+spatial concepts, various types of
+maps and analytical tools used by
+the map reader, spatial ideas of
+distance, direction, area, and
+volume, scales and grids, and
+drainage, settlement and forest       
+pattens, etc. To order, send $15
+plus 52 for shipping and handling
+payable to the  ational Council for
+Geographic Education to: National
+Council for Geographic Education,
+16A Leonard Hall, Indiana University of Pennsylvania, Indiana,
+Pennsylvania 15705-1087; (412)
+357-6290.
+The Third Edition of Map Use,
+Reading - Analysis - Interpretation 
+written by Phillip C.
+Muehrcke and edited by Juliana 0.
+Muehrcke, is now available. The
+new edition has over 500 illustrations, 
+10 new chapters, exercises
+added to each chapter, text updates from beginning to end, and
+more information about the impact
+of electronic technology. To order
+send a check or money order for
+$32 to: JP Publications, P.O. Box
+44173, Madison, Wisconsin 53744.
+MAPS
+The Association of Canadian Map
+Libraries and Archives (AC:MLA)
+is offering Standard Topograplrical
+Maps of Canada, 1904-1948, a 31-page softcover booklet that lists
+maps produced by surveyors
+working for the Canadian Government. 
+The maps show mountain
+ranges, lakes, rivers, and streams
+for different areas of Canada. In
+addition, the book includes 22
+map-sheet illustrations. The cost is
+510. Also available are Early
+Canadian Topographic Map
+Series: the Geological Survey of
+Canada, 1842-1949, and Sectional
+Maps of Western Canada, 1871-1955: 
+An Early Canadian Topographic 
+Map Series. These
+softcover booklets List sheets of
+sectional maps that contain
+township boundaries and topographic 
+features. Each costs $15.
+Contact : ACMLA, c/ o MAPS,
+National Archives of Canada,
+Ottawa, Canada K1A ON3; (613)
+99.3-1079. 
+
+,         
+Number 13, Fail 1992                  cartographic perspectives                        25
+co11ti1111ed from page 2
+received her B.S. degree in chemistry (1961), and an M.S. (1964) and
+Ph.D. (1969) degrees from the
+University of Wisconsin in cartography and educational psychology.
+Barbara contributed more than
+50 articles, reviews, and essays to
+the professional literature on
+topics related to map design,
+education, cognitive psychology
+and human factors, and computerassisted vehicle navigation and the
+Intelligent Vehicle Highway
+System (]VHS). She is probably
+most well recogni7ed for her coauthored book on The Nature of
+Maps (with Arthur H. Robinson).
+Barbara was a member of the
+North American Cartographic
+Information Society, the American
+Cartographic Association, The
+American Congress on Surveying
+and Mapping, the Association of
+American Geographers, and the
+International Cartographic Association. 
+Her service to these
+organizations included (among
+other things) Chair of the U.S.
+National Committee for ICA, U.S.
+National Committee for IGU,
+Editorial Board of The American
+Cartographer (now Cartography
+and Geographic Information
+Systems), Committee for Automobile Na\'igational Aids, Society of
+Automotive Engineers, and most
+recently Vice President of the
+International Cartographic Association. 
+Her dedication and
+contributions to the cartographic
+community will be sorely missed.
+Memorial contributions can be
+made to either: Executive Director,
+Norlhwestem Medical Faculty
+Foundation, 680 N. Lakeshore
+Orin~,     Suite 1118, Chicago, IL
+60611, or the Barbara Petchenik
+'viemorial Fund, c/o David
+Woodward, University of Wisconsin, Department of Geography, 550                          
+. Park Street, Madison, WI 53706
+(the latter will be used to fund an
+internationally sponsored annual
+children's mapping competition).          
+announcements
+J.B. Harley Research Fellowships
+in the History of Cartography.
+A fund in the memory of the late
+Profes or Brian Harley (Professor
+in the Geography Department at
+the University of WisconsinYiilwaukee) has been initiated to
+support the J.B. Harle11 Research
+Fellow"l1ips i11 tire Hi"tory of Cartography. 
+The target of £40,00 will
+fund up to three fellowships per
+year, each of one month's duration. 
+Anyone pursuing advanced
+research in the field will be eligible, whatever their nationality,
+discipline or profession. Preference will be given to interpretive
+studies reflecting the notable
+contributions made by Professor
+Harley. The awards will provide
+opportunity for intensive use of
+the major London Collections,
+notably the British Library, . ational 'viaritime Museum, Public
+Record Office and Royal Geographical Society, as well as others
+within reach of London. The
+Fellowships will provide "velcome
+stimulus to the academic study of
+the history of cartography worldwide. 
+It is anticipated that most of
+the applicants will come from
+outside the United Kingdom. The
+Trust's officers are Professor
+P.D.A. Harvey (Chairman), Dr.
+Catherine Delano Smith (Hon
+Treasurer) and, as T Ion. Secretary,
+Tony Campbell, British Library
+Map Library, Great Russell Street,
+London WC1B 3DG, to whom
+contributions (The J.B. Harley
+Resenrc/1 Fellowships Tmst F1111d) or
+enquiries may be sent.
+ACSM 20th Annual Map Design
+Competition
+The American Cartographic
+Association of the American
+Congress on Surveying and
+Mapping (ACSM) is again sponsoring their annual \1ap Design      
+Competition to promote interest in
+map design and to recognize
+significant design advances in
+cartography. The Map Design
+Competition is open to all
+mapmakers in the United States
+and Canada.  oted cartographers
+and designers judge entries based
+on achievement of stated objectives, color, overall design and
+impression, craftsmanship, and
+typography. The winning entries
+will be exhibited on February 15.
+18, 1993 at the ACSM Annual
+convention in New Orleans,
+Louisiana. Entries may also be
+displayed at a number of other
+national and international professional functions and will become
+part of the permanent collection of
+the U.S. Library of Congress. All
+winners will recei\'e notification at
+least two weeks before the ACSM
+Annual Convention. Cash prizes
+will be awarded in various categories. 
+Only maps completed and/
+or published in 1992 are eligible.
+The deadline for entires is December 15, 1992. For more information
+contact: Ms. Dierdre BevingtonAttardi, ACSM Map Design
+Competition, c/o Cartographic
+Division, :\ational Geographic
+Magazine, 1600Y1 Street .w,
+Washington, D.C. 20036.
+1492: An Ongoing Voyage
+ln August The Library of Congress
+opened a major Quincentenary
+exhibition, 1492: An Ongoing
+Voyage. The exhibition addresses
+the worlds of America and the
+Mediterranean on the eve of 1492,
+and looks at Columbus's voyages
+and their continuing consequences
+in the Americas from 1492-1600.
+The exhibition draws extensively
+on the rich collections of the
+Library of Congress and is complemented by objects from other
+institutions such as the Pierpont
+Morgan Library, Tulane university, the San Antonio Museum of 
+26                          cartograpl1ic perspectives              Number 13, Fall 1992
+Art, the \foseum fur volkerkunde
+(\'icnna), the Alters Art Gallery,
+and from private individuals.
+The exhibition includes an
+mtroductory film as well as 20
+highlighted stations that feature
+outstanding treasures from the
+15th and 16th centuries. 1492: A11
+Ongoi11g Vo11age is divided into
+three sections: "On the Eve of
+1492," "The Atlantic Voyage," and
+"Europe Claims America."
+Among the items on display in the
+exhibit arc The Library's unique
+1531 Huejotzingo (Mexico) Codex
+(an illuminated document, on
+display for the first time), Caspar
+Vopell's 15-!3 manuscript terrestrial globe, a 14th century sea chart
+(portolan) of the Eastern Vfediterranean, 
+the 1507 Johann Ruysch
+world map in Ptolemy's
+Geograpltia, Diego Gutierre7's map
+of America, and Martin
+Waldseemuller's 1507
+Cos111ogmplliae l11trod11ctio in which
+the name America first appears.
+1492: A11 011go111g Vovage will be
+on view in the Madison Gallery of
+the James \.iadison Memorial
+Building, 101 Independence
+A\.enue, S.E. from August 13, 1992
+through February 14, 1993. Hours
+for the exhibition are 8:30 a.m. to
+9:30 p.m. Monday - Frida), and
+8:30 a.m. to 6 p.m. Saturday and
+Sunday.
+Database on Geological Maps
+Now Available As USGS Report
+The United States Geological
+Survey (USGS) has released its
+bibliographic database of published geological maps for areas in
+the united States and its Territories. 
+The database, called
+GEOINDEX, contains up-to-date
+information on geologic maps
+published by the USGS, State
+geological surveys, geoscience
+societies, and other publishers.
+The database is accompanied by
+uses search and retrieval software called GSSEARCH.
+GEOJ'\JDEX originated in the       
+late 1970s to manage bibliographic
+data from the USGS Geological
+Map Indexes (G\1Js). The database was converted to DOS in the
+mid 1980s. GEO!NlJEX includes
+all data on the GM Is, as '"'ell as
+data collected through mid-1991.
+GSSEARCH was developed by the
+USGS to search GEO! DEX and
+other fielded databases on a
+microcomputer. The hardware
+requirements are an IBM-compatible 
+microcomputer (AT style or
+newer recommended), highdensity 5.25 floppy disk drive,
+hard disk \Vi th 16 megabytes space
+a\'ailable, EGA color monitor,
+512K RA \1, system configuration:
+20 files, 20 buffers. The software
+requirements are DOS 3.20 (or
+hig her).
+A report on the database,
+entitled GEOINDEX Database 011
+Geologic Maps Accessible Usi11s
+GSSEARCT-1 Search and Retrieval
+Software, has been prepared by H.
+Kit Fuller and Gregory B.
+Gunnells, and is a\'ailable in hvo
+parts. Open-File Report 91-575-A
+(documentation only) is available
+for $3.25 (paper) or $4 (microfiche);
+Open-File Report 91-575-B (database, search software, and documentation) is available for $84 (14
+5.25 high density floppy disks).
+These items can be ordered from
+USGS Books and Open-File
+Reports, Box 25425 Federal Center,
+Denver, CO 80225. Include
+payment with your order.
+Michelin Job Opportunities
+Michelin Travel Publications has
+immediate opportunities for
+cartographers at their u.S. headquarters in Greenville, South
+Carolina. These individuals will
+participate in all phases of map
+making and printing with responsibility 
+for compilation, computeraided 
+design, preparation and onpress quality assurance of maps.
+Qualified candidates need a
+Bachelor's or Master's degree in
+cartography or directly related        
+field, with a minimum 3.0 GPA, or
+3-5 years professional experience.
+Knowledge of Macintosh, PC, and
+U IX workstation, and versatile
+programming skills are also
+needed. Familiarity with cartographic 
+software, data base
+development and maintenance is
+required. Send resume and salary
+requirements to: Dept. CP,
+'\!fichelin tire Corporation, P.O.
+Box 19001, Greenville, SC 29602-9001.
+cartographic events
+EVENTS CALENDAR
+1992
+August 1992- February 14, 1993:
+The Exhibition 1492: An Ongoing
+Voyage. Library of Congress,
+Madison Gallery of the James
+Madison Memorial Building, 101
+Independence A venue, S.E.,
+Washington, D.C.
+September 30- October 4: 24th
+Annual Conference of the International Visual Literacy Association Imagery in Science and the
+Arts. Pittsburg, PA. Contact: Dr.
+Barbara Seels, lnstrnctional Design
+and Technology, 4A 16 Forbes
+Quadrangle, University of
+Pittsburg, Pittsburg, PA 15260;
+(412) 648-7338, fax (412) 648-5911.
+October 6-9: GISOEX, the Geographic Information Systems
+Conference and Exposition,
+Focusing on the Use of GIS in the
+Federal Government. The Washington Hilton, Washington, D.C.
+Contact: CSPDI, Inc. (301) 445-4500, fax (301) 445-5722. 
+Number 13, Fall 1992                  cartograpliic perspectives                        27
+October 14-17
+North American
+Cartographic Information
+Society XII Annual Meeting
+The North American Cartographic Information Society
+will hold its twelfth annual
+meeting at the Ramada Inn in
+St. Paul, MN. The preliminary program for this year's
+meeting is listed on pages 31                        
+- 33 of this issue of Cartos mphic Perspectives. For more
+information contact Dr.
+Jeffrey Patton, Program
+Chair, Department of Geography, University of North
+Carolina at Greensboro,
+Greensboro, NC 27412;
+(919) 334-5388.
+November 6-12: GIS/LIS 1992
+Annual Conference and Exposition. San Jose, CA. Contact:
+ACS\.1, 5410 Grosvenor Lane,
+Bethesda, MD 20814; (301) 493-0200, fax (301) 493-8245.
+1993
+February 15-18: ACSM/ASPRS
+Annual Convention. New Orleans, LA. Contact: ACSM, 5410
+Grosvenor Lane, Bethesda, MD
+20814; (301) 493-0200, fax (301) 493-8245.
+February 15-18: 7th Annual
+Symposium on Geographic
+Information Systems in Forestry,
+Environmental and Natural
+Resources Management.
+Vancouver, British Columbia,
+Canada. Contact GIS 93 Symposium Office, Suite 305, 1040
+Hamilton Street, Vancouver,
+British Columbia, Canada, V6B
+2R9; (604) 688-0188, fax (604) 688-1573.                              
+May 3-9: 16th International
+Cartographic Conference - ICC
+'93. Cologne, Germany. Contact:
+conference Secretariat, AKM
+Congress Service, Clarastrasse 57,
+GH - 4005 Basel, Germany.
+May 5-8: Geotechnica, the International Fair and Congress for
+Geosciences and Technology.
+Cologne, Germany. Contact :               
+KolnMesse U.S. Representative
+Office, German American Chamber 
+of Commerce Inc., 666 Fifth
+Avenue, 21st Floor, New York,  Y
+10103-0165; (212) 974-8836, fax
+(212) 974-8838.
+April 6-9: Association of American Geographers Annual Meeting. Atlcinta, GA. Contact: Kevin
+Klug, AAG, 171016th St. N.W.,
+Washington, D.C. 20009-3198;
+(202) 234-1450.
+June 5-10: 84th Annual Conference of the Geography and Map
+Division Special Libraries Association. 
+Cincinnati, OH. Contact:
+Ms. Alice C. Hudson, Chief, Ytap
+Divisio n,  .Y.P.L., 5th Avenue and
+42nd Street,  ew York, 'Y 10018;
+(212) 930-0588.
+June 21-25: XVth International
+Conference on the History of
+Cartography.  rewberry Library,
+University of Chicago, Chicago, IL.
+NACIS news
+NACIS OFFICERS
+Preside11t: Jack L. Dodd,
+Tennessee Valley Authority, 1101
+Market St., HB lA, Chattanooga,
+T  37402-2801; (615) 751-5404.
+Vice Prcside11t: Jeff Patton,
+Department of Geographv,
+University of North CarolinaGreensboro, Greensboro, NC
+27412; (9 19) 334-5388.               
+Secretan1: Craig Remington,
+Geographv Department, Lniversitv of Alabama, Tuscaloosa, AL
+35487; (205) 348-1536.
+Treasurer: Edward J. Hall,
+410 McGilvrey Hall, Kent State
+University, Kent, OH 44240-0001;
+(216) 672-2017.
+Past Preside11t: James F. Fryman,
+Department of Geography, University of  orthem 1owa, Cedar
+Falls, lA 50613; (319) 273-6245.
+NACIS EXECUTIVE OFFICER
+Christopher Baruth, NACIS,
+American Geographic Society
+Collection, P.O. 399, Milwaukee,
+WI 53201; (800) 558-8993 or (414)
+229-6282; e-mail: cmb@csd4.csd.
+u w m.edu.
+BOARD OF DIRECTORS
+James R. Anderson, Jr., FREAC,
+361 Bellamy Building, Florida State
+University, Tallahassee, FL 32306;
+(904) 644-2883.
+Ron Bolton, NOAA, 6010 Executive Blvd, Room 1013, Rockville,
+MD 20852; (301) 443-8075.
+Will Fontanez, Department of
+Geography, -108 G & G Building,
+University of Tennessee, Knoxville, T  37996; (615) 974-2418.
+Hull Mclean, 1602 Society
+Court, Herndon, VA 22070; (703)
+83+-3123.
+Jim Minton, Map Library,
+University of Tennessee, Room 15
+Hoskins, Knoxville, TN 37996;
+(615) 974-4315.
+Ruth Rowles, 337 Atwood Dr.,
+Lexington, KY 40515; (512) 564-5174.
+John Sutherland, \.fap Collection,
+Science Library, Gniversity of
+Georgia Libraries, Athens, GA
+30602; (404) 542-0690.
+INTER-AMERICAN
+COMMITIEE
+Chair: Jim Minton, Map Library,
+Uni\'ersity of Tennessee, Room 15
+Hoskins, Kno>..ville, TN 37996;
+(615) 974-4315. 
+28                          cartograpl1ic perspectives              Number 13, Fall 1992
+NOMI NA TIO NS COMMITTEE
+Chair: James F. Fryman, Department of Geography, University of
+orthern Iowa, Cedar Falls, IA
+50613; (319) 273-6245.
+CARTOGRAPHIC
+PERSPECTIVES
+Editor: Sona Karentz Andrews,
+Department of Geography, 208
+Sabin Hall, 3413  . Downer
+Avenue, University of WisconsinMilwaukee, Milwaukee, WI 53211;
+(-114) 229-4872, fax (414) 229-3981;
+e-mail: !:>Ona@csd4.csd.uwm.edu.
+Assistant Editor: David W. Tilton,
+Department of Geographv, 208
+Sabin Hall, University of Wisconsin-Milwaukee, Milwaukee, WI
+53211; (41-1) 229-4866, fax (414) 229-3981; e-mail: tilton@convex.csd.
+uwm.cdu.
+EDITORIAL BOARD
+Clinir: Michael Peterson, Department of Geography, University of
+ebraska at Omaha, Omaha, 'E
+68182; (402) 554-2662.
+MEMBERSHIP INFORMATION
+For membership in the . orth
+American Cartographic Information Society please fill out the form
+at the back of this issue with your
+name, add res , name of your
+organization, your position and
+mention your cartographic interests along with a check payable to
+'ACIS to Edward J. llall, Treasurer, Map Library, 410 McGilvrey
+Hall, Kent State University, Kent,
+OH 44242-0001. Membership fees
+for the calendar year are as follows:    
+Individual/ Regular
+528.00 U.S.
+Students: 58.00 u.S.
+Institutional: 558.00 U.S.
+Membership fees include subscription to Cartovapliic Perspectiiirs and
+arc due January I.                
+Minutes of the
+NACIS Board Meeting
+March 21, 1992
+St. Paul, Minnesota
+President Dodd called the meeting
+to order at 9:00 a.m. The following
+Board members were present: Hull
+McLean, John Sutherland, Fred
+Fryman, Jeff Patton, Jack Dodd, Ed
+Hall, Jim Minton, Ruth Rowles,
+Craig Remington, and Ron Bolton.
+Also pre ent were Chris Baruth
+(Executive Director), Mike
+Peterson (Chair, Editorial Board)
+and Greg Chu (Chair, Local
+Arrangements Committee).
+Treasures Report
+President Dodd asked that the
+minutes from Board \1eetings of
+October 20, 21, and 23, 1991 be
+accepted and called upon Ed Hall
+to present the Treasures Report.
+Hall reports a balance of $23,203.10
+in the NACIS account. Hall
+reports on a declining rate of
+interest being earned on the
+balance. He spoke concerning the
+need to establish a bank account
+which will allow unlimited
+deposits and withdra1.vals without
+a loss of interest income. Dodd
+suggests the present as timely in
+terms of centralizing financial
+operations to Milwaukee and
+asked Baruth to explore banking
+options in Wisconsin. Hall reports
+the membership of  ACIS totals
+280 active members, 44 institutional, 197 personal and 39 students.
+NACIS XII
+Jeff Patton, program chair, announced a call for papers for the
+St. Paul program in various
+publications. Further announcements will be made through a
+direct mailing from our existing
+list of potential participants. The
+Board asked that Cartographic
+Animation be added to the suggested topics list on the call for
+papers. The paper submission        
+deadline was moved back to June
+1. Dodd offer!> the support of the
+Board to aid Patton in any way
+possible. Greg Chu addressed the
+Board concerning local arrangements and offered potential guest
+speakers. The local program
+schedule will be distributed for
+discussion during our summer
+telephone conference. Brent
+Allison will be a co-chair with Chu
+on local arrangements. Chu is
+investigating possible local field
+trips, transportation requirements
+and scheduling. The \1ap Library
+at the Liniver!:>ity of Minnesota will
+offer a reception on a non-banquet
+night with a gathering at Chu'-.
+restaurant to follO\v. Two concurrent work!:>hop will be held at the
+University of \itinncsota. One will
+address the uses of CorelDRA W
+oftvvare and the other will deal
+with animation cartography.
+Enrollment is limited to 20 participants in each workshop. A fee
+schedule was adopted as follows:
+Corel Workshop - 550 for full
+conference participants, $100 for
+non conference participants and
+$35 for !:>tudents.
+Animated Cartography Workshop - $70 full, $125 non, and 545
+student. Interest continues for
+incorporating a workshop with
+Mcintosh platforms as offered on
+past occasions. Five enrollment
+slots will be set aside in each
+workshop for student participation. The possibility of a Sunday
+workshop session exists if demand
+warrants. Concluding remarks on
+NACJS XH were offered by Ron
+Bolton as he praises the preparation which has taken place to
+insure a successful meeting.
+NACIS XIII
+The Board reviewed several
+potential sites for the Washington
+meeting as offered by Bolton.
+Final selection went to the Quality
+Hotel in Silver Springs, Maryland.
+Dates for the meeting will be
+finalized so as not to conflict with
+1.C.G.E. Fred Anderson and Al 
+Number 13, Fall 1992                  cartographic perspectives                        29
+Herman were suggested as possible local arrangement representatives.
+NACIS XI Final Report
+The Board accepted a Final Expense/ lncome Report from Baruth
+on the Milwaukee meeting. In
+summary, the report showed
+expenses totaling $6266.80 and
+receipts totaling $6665.50 for a
+positive balance of 5398.70. Total
+conference attendance was reported 
+at 92 participants.
+Sutherland made a motion to
+maintain the same fee structure for
+full participants to  ACIS Xll as
+was established for  ACIS Xl. The
+motion was seconded and passed.
+Jim Minton made a motion for a
+daily registration fee to be set at
+$25 for students and $45 for all
+other conference participants
+excluding meals. The motion was
+seconded and passed.
+Cartographic Perspectives
+Baruth announced that Sona
+Andrews had received approval
+from her Dean to assume
+editorship of C.P. Baruth read a
+report prepared by Andrews
+which outlined her progress
+through this transitional period.
+Patton points out that the Publications Committee has in the past
+worked with the Editor in the
+selection of feature articles. The
+Board asks for the Publications
+Committee Chair (Mike Peterson)
+to work on revising the name of
+the Committee to better reflect it's
+function. Further, the term of
+service on the Committee and the
+professional composition of the
+Committee members will be
+reviewed. An emphasis on
+academic representation on the
+Publications Committee was felt to
+be an asset in projecting a scholarly image of C.P. The Board joins
+in the principal that C.P. should
+take on the style of the Editor.
+Formerly allotted funds for
+publication software have not been
+spent and remain at the disposal of    
+the Editor. Dodd ask Baruth to
+convey to Andrews the need to
+publish C.P. in a timely manner.
+Dodd further receives Board
+support for production of a
+brochure which promotes C.P. in
+order to broaden subscription.
+Chu suggests that the Review
+Committee for refereeing articles
+be placed in a more prominent
+page position in C.P. Ed Hall
+asked to be released from the
+responsibility of maintaining the
+current data base for C.P. mailing
+labels. It was agree that this task
+would be moved to Milwaukee.
+Bolton asks Dodd to select with the
+Editor a suitable time frame for
+C.P. production. The Board joins
+in thanking Dave DiBiase and his
+staff for their years of service on
+Cartographic Perspectives.
+NACIS Dues Increase
+This matter was tabled for later
+discussion.
+Nominating Committee
+Fred Fryman asked that an announcement be placed in C.P. for
+nominations to Board positions.
+Dodd encourages members of
+NAClS who have not served on
+the Board to consider running for a
+seat. Terms expire this year for
+Bolton, Mclean, Fontanez and
+Hall. A question arose concerning
+the maintenance of a permanent
+record of election results. Dodd
+will contact Diana Riveria for
+clarification on this matter.
+Membership Growth
+Subcommittee
+In response to her interest, Barbara
+Trapido has been asked to serve on
+the subcommittee. Dodd will
+select a new chair.
+Centralization and Incorporation
+Baruth reports that centralization
+of NACIS operations continues in
+Milwaukee. Incorporation of the
+Society in Wisconsin has been
+renewed with Baruth as the
+register agent.                      
+Mission Statement
+The question arose concerning the
+language of our mission statement
+as it relates to our non-profit status
+for postage permits. Baruth will
+investigate permit application
+procedures for mailings from
+Milwaukee.
+NACIS XIV
+The Board discussed potential sites
+for this meeting, drawing from
+responses to a questionnaire
+placed before the membership.
+Dodd suggests the use of a private
+research group to help in site
+selection to relieve Bolton of this
+arduous task. The Board felt that
+NACIS should continue to seek
+advisement from the membership
+as to future sites. Patton spoke in
+favor of Asheville,  orth Carolina.
+As in the past, the problem of
+finding members to serve on a
+local arrangements committee
+limited site options. Several
+members of the Board spoke
+convincingly of the merits of
+Ottawa. Here the point was made
+that our Society's name has not
+lived up to our conference sites
+selection along with a general
+desire to incorporate more Canadians into  ACIS Minton and
+Mclean will investigate facilities
+and planning for an Ottawa
+conference.
+Cartographic Users Advisory
+Council Representative
+Ed Hall was nominated to be the
+ACIS representative to C.U.A.C.
+He accepted the nomination and
+was elected to the post. McLean
+offers a motion caJling for NACIS
+to support C.U.A.C. through a 550
+annual contribution. The motion
+passed after discussion. Patton
+offers a 1T1otion calling for NACIS
+to support the Society's representative to C.U.A.C. with a nominal
+contribution in order to help
+defray the costs of attending
+meetings. After discussion a
+figure of $50 was arrived upon by
+the Board. The motion was 
+30                          cartograplzic perspectives              Number 13, Fall 1992
+amended, voted upon, and passed.
+Notebooks for President and Vice
+President
+Dodd spoke of the value of maintaining a notebook to be passed
+through the succession of Presidents to aid in the continuity of the
+Society's management. He i5 now
+collecting such a notebook.
+Other Business
+Minton asks that it become a
+practice of the President to present
+a "State of the Society" report to
+the Board which would address
+committee assignments, duties of
+office holders, and other matters
+which reflect upon the well being
+of the Society. The suggestion met
+with Board support. Baruth asked
+that a committee be formed to
+address digital technology in the
+library setting. Chu suggested a
+future workshop on the matter.
+Chu further suggests that Pat
+McGlamory might offer another
+conference session concerning this
+important topic. After brief
+discussion and yielding to the
+pangs of hunger, President Dodd
+finds that all necessary business
+has been completed and adjourns
+at 5:10 p.m.
+Craig Re111111gto11, Secretary
+EXCHANGE PUB LI CA TIO NS
+Cartographic Perspectiiieo:; gratefully
+ackno'vvledges the publications
+listed below, with which we enjoy
+exchange agreements. We continue to seek agreements with
+other publicil lions.
+ACSM B11//cti11. Offering feature
+articles, regular commentaries,
+letters, and news on legislation,
+people, products and publications,
+the American Congress on Sur\'eying and Mapping's B11//eti11 is
+published s1' times a year. Contact: 
+\ifembership Director, 5-no
+Grosvenor Lane, Bethesda, MD
+20814; (301) 493-0200.               
+B11/leti11 of tire Society of Cartographers. 
+Published twice a year, the
+B11//et111 features articles on techniques 
+and ideas applicable
+to the Cartographic Dra.wing
+Office. Contilct: John Dysart,
+Subscriptions Manager, Room 51-1,
+Middlesex Polytechnic,
+Queensway, Middlesex, E '3 4SF,
+England. ' 
+Carto11clre. A quarterly publication
+offering news and anl1ouncements
+to members of the CCA. Contact:
+Canadian Carto~raphic         Association, 
+c/ o Jim Britton, Sir Sandford
+Fleming College, School of  atural
+Resources, P.O. Box 8000, Lindsay,
+Ontario K9V 5E6 Canada; (705)
+32-1-9144; e-mail: britton@trentu.ca;
+fax: (705)
+324-9716.
+Cartograplrica. A quarterly journal
+endorsed by the Canadian Cartographic Association/ Association
+Canadienne de Cartographie that
+features articles, reviews and
+monographs. B V Gutsell, founder
+and editor. lSS  0317-Tl73.
+Contact: University of Toronto
+Press Journals Department, 5201
+Dufferin Street, Downsview,
+Ontario, M31 l 5T8 Canada; (416)
+667-7781.
+Cartographic /011mal. Biannual
+Journal of the British Cartographic
+Society. Includes research articles,
+'shorter' articles, official records of
+the Society, book re\'ien1s, and list
+of recent cartographic literature.
+Contact: Hon. Secretary, Charles
+Beattie, 13 Sheldrake Gardens,
+l lordle, Lymington, Hants, S04
+lOFJ, Engfand.
+Cartography. Biannual Journal
+of the Australian Institute of
+Cartographers. Each issue contains two parts, the Journal proper
+and the Bulletin. The Journal
+contains original research papers,
+papers describing applied cartographic projects, reviews of
+current cartographic literature and
+abstracts from related publications.
+ISS  0069-0 05. Contact: John
+Payne, Circulation Manager, GPO
+Box 1292, Canberra, A.C.T. 2601,
+Australia.
+Cartography Specialtv Group Newsletter. 
+Triannual Publication of the
+Cartography Specialty Group of
+the Association of American
+Geographers. Features news,        
+announcements and comics.
+Contact: Ann Goulette, Editor,
+Intergraph Corporation, 2051
+Mercator Drive, Reston, VA 22091-3414; (703) 264-7141; e-mail:
+ann@pluto.ne1300.ingr.com.
+Carto111a11ia. This quarterly newsletter of the Association of Map
+Memorabilia Collectors offers a
+unique mix of feature articles,
+news, punles, and announcements 
+of interest to cartophiles.
+ISS~   0894-2595. Contact:
+Siegfried Feller, publisher/editor,
+8 Amherst Road, Pelham, MA
+01002; (413) 253-3115.
+Geotimes. Monthly publication of
+the American Geological Institute.
+Offers news, feature articles, and
+regular departments including
+notices of new software, maps and
+books of mterest to the geologic
+community. Articles frequently
+address mapping issues. ISSN
+0016-8556. Contact: Geotimes,
+4220 King Street, Alexandria, VA
+22302-1507.
+GIS World. Published six times
+annually, this ne\\'S magazine of
+Geographic Information Systems
+technology offers news, features,
+and co\'erage of events pertinent to
+GlS. Contact: Julie Stutneit,
+Managing Editor, GIS World, Inc.,
+P.O. Box 8090, Fort Collins, CO
+80526; (303) 223-4848; fax: (303)
+223-5700.
+l11for111atw11 Design jo11mal.
+Triannual publication of the
+Information Design Unit. Features
+research articles reporting on a
+wide range of problems concerning the design and use of visual
+information. Contact: Information
+design journal, P.O. Box 185,
+Milton Keynes MK7 6BL, England.
+Perspecti'1.1L'. This newsletter of the
+ational Council for Geographic
+Education ( CGE) is published
+five times a year in October,
+December, February, April and
+June.  ews items related to 1CGE
+acti\'ities and geographic education are featured. Contact: NCGE,
+Leonard 16A, Indiana University
+of Pennsylvania, Indiana, PA
+15705; bitnet: CLMCCARD@IUP. 
+Number 13, Fall 1992                   cartograpl1ic perspectives                        31
+October 14-17, 1992
+St. Paul, Minnesota 
+32                         cartographic perspectives              Number 13, Fall 1992
+NACIS XII
+Conference Schedule
+(Preliminary)
+Wednesday Oct. 114
+2:00 p.m. Registration Begins
+2:00 - 5:00  ACIS Board Meeting
+7:30 - 8:00 OPENF\G SESSION
+Welcome to The Twin Cities
+Greg Chu
+Welcome to NACIS XII
+Jeff Patton
+8:00 - 9:00 Opening Address
+John Fraser Hart, Profo~sor,
+Department of Geography, Unh'L'!"Sitv of
+Minm.• .. ota.
+9:00 - 11 :00 Opening Exhibits/
+Posters (Cash Bar Social)
+Thursday, Oct. 15
+8:30 - 10:00 a.m. SESSI0:-..1 A
+"Child Development and Cartographic Education" Papers bv
+Psychologish and Cartogr,1phers on how
+children de,.elop •pati,11 aw,iren~,.        and the
+implic,1tio11s for geogrnph1c and c,irtographic education. Organii'l'r - Henry W.
+Castner.
+CO. CURRENT SESSI01 B
+"Federal Mapping Agencies"
+Organi/ers - Ron Bolton and Charle!>
+Harrington.
+10:00 - 10:30 Break
+10:30 - 12:00 SESSIO  C
+"The Development of Spatial
+Awareness" A panel discussion of
+Ses"ion A's papers on thb topic.
+Organiters - Herbert Pick .ind Henry
+Castner.                                   
+CONCURRENT SESSIO  D
+"Electronic Atlases and Digital
+Data Bases" Org.1ni7er -Thomas
+Hodler
+12:00 - 1:00  Lunch Break
+1:30 - 5:00 p.m. 'fecnnical and
+Local Tours    
+- Minnesota Department of Transportation
+-:R.iverboat Tour of the Twin Cities Area
+--Minnesota Historical Society Map
+Collection
+Al'\NUAL BANQUET
+6:30 - 7:30 Cash Bar
+8:30 -$1:00 President's Remarks
+jack Dodd
+9:00 - 10:00 Banquet Address
+Arthur H. Robinson, P rot~'>5Q     r
+Fmeritus, Deptnrtmt>11t of Geography
+L ni\ ar'itv on\'l5con. l~  \iad1"<.m.
+Friday, Oct. 16
+8:30 - 10:00 a.m.  SESSIO  E
+"Software Use in Cartographic
+Production with an Emphasis on
+the Small Lab" Orb"am:wr' -Jo-.eph
+<,toll ,md Donna Schl'nstrom.
+CO 'Cl.J RRENT SESSIO  F
+"Communication and Cognition
+in Mapping" Oq.~amzers        -<;cou
+Fruend"<:huh, Riley Jaco~    and Margaret
+Pearce.
+10:00 - 10:30 Break
+10:30- J2:00 SESSION G
+"Interactive Videodisc Mapping
+Project" Organizu!.-SO!kl Andrews,
+hris Baruth, David Tilton and Yvonne
+Bode.
+CO. CURRE .r SESSION H
+"Map Librarians Speak to Geographers and Cartographers: What
+We <::an Do For You and How
+to Get What You Need From Us"
+A o,eries of bnef prl'°'cntatiom followed b~
+,m e'tcndcd panel di,.,cussion. Organizer -                              
+'\Janey Kandoian.                           
+12:00 - 2:00 p.m.  Lunch Buffet
+and Annual Business Meeting
+2:00 - 4:00 SESSION 1
+"Cartographic Education" A panel
+discussion ol current trend., in unl\·e~1ty
+cartographic education Panel includes
+rcpresentatin~c;            trom acildcmia, the public
+sector, and commercial cartographic firms.
+Organizer - keith Rice.
+CQncurrent SESSION J
+"Map librarians and Digital
+Data" Organizers - Patrick
+McGlamery, Jim Minton and
+Johnny Sutherland.
+4:00-6:00 NACIS Board Meeting
+Saturday, Oct. 17
+Workshops
+Bt.-.c,., lc,l\"e at b:30 a.rn. for work.ho?" at
+thl' Umversit} of \ilinne.,ota.
+9:00-12:00 Map Producition and
+Design using Corel Draw - Greg
+Chu (Note; This i~  a morning ~~ion    only.
+If there is e11trngh interest, it may be
+repeated in tbe afternOotl.l.
+9:00-4:30 Macintosh Animation
+Michael Peter,.,on, Riley faqibs, John
+Krvgier, Cathcrme Recv<.>s, Da\"id Tiiton.
+9:00-4:30IBM-Based Animation -                          
+Phil Gcr~hmel
+Social events for non-workshop
+participants:
+8:30-12:00 Visit to the Megamall
+"Mall of America"
+1:30-? Treasure Island Casino
+{C.1sino will provide :,huttle).
+5:00 Wine and Cheese Reception
+Umver:,1ty of Mmnesota M,1p Library &                    
+Cartographv L.1boratory. 
+Number 13, Fall 1992                   cartographic perspectives                        33
+Workshops
+IBM-based Map Design
+and Production
+Saturday, 10/17/92
+9:00-12:00 noon
+Cost 550 ($100 for nonregistered participants, $35
+for registered students)
+You will receive hands-on
+training in creating maps
+using Corel Draw! 3.0. The
+differences between traditional 
+and computer-assisted
+design methods will be
+analyzed. Participants will
+receive a set of public domain base map files to take
+with them.
+Software and Instructor:
+Corel Draw! 3.0 - Gregory Chu,
+Director, cartography Lab, University of Minnesota.
+NOTE: This workshop may be
+offered again in the afternoon
+depending on the response.         
+IBM-based Animation
+Saturday, 10/17/92
+9:00-4:30
+Cost $70 ($125 for nonregistered participants, $45
+for registered students)
+You will learn the basic
+principles of designing and
+producing dynamic animated maps for broadcast
+purposes. The workshop
+will be conducted with a
+combination Df le~res,
+explanations, demonstrations, 
+and hands-on exercises. 
+There will be opportunities for questions.
+Sof hvare and Instructor:
+Autodesk Animator - Professor
+Philip J. Gershmel, University of
+:vlinnesota.                        
+Macintosh Animation
+Saturday, 10/17/92
+9:00-4:00
+Cost: $75 ($125 for nonregistered participants, $45
+for registered students)
+You will explore the basic
+principles and techniques of
+cartographic animation
+using a variety of software
+demonstrated by five different instructors. Twenty five
+Macintosh Iki computers
+will be available so that
+workshop attendees will
+have hands-on experience in
+creating their own animations.
+Software and Instructors:
+MacChoro II, Adobe Premiere
+and QuickTime - Michael
+Peterson, University of Nebraska
+at Omaha.
+Hypercard - Riley Jacobs, University of. ebraska at Omaha.
+Macromind Director -John
+Krygier and Catherine Reeves,
+Pennsylvania State University;
+David Tilton, University of Wisconsin-Milwaukee. 
+
+34                          cartographic perspectives              Number 13, Fall 1992
+FEATURED PAPERS
+Each issue of C11rfo~mpl11l          Perspecfil'c~     
+includes featured papers,
+which are refereed articles reporting original work of interest to
+NACIS' diverse membership.
+Papers ranging from theoretical to
+applied topics are welcome.
+Prospective authors are encouraged to submit manuscripts to the
+Editor or to the Chairperson of the
+NACIS Editorial Board. Papers
+may also be solicited from presenters at the annual meeting and from
+other sources. Paper"> should be
+prepared exclusively for publication in CP, with no major portion
+previously published elsewhere.
+All contributions will be re\.iewed
+by the Editorial Board, whose
+members will advise the Editor as
+to whether a manuscript is appropriate for publication. Final
+publication decisions rest with the
+Editor, who reserves the right to
+make editorial changes to ensure
+clarity and consistency of style.
+REVIEWS
+Book reviews, map re,.ie\'\'S, and
+mapping c;oftware re\"iews are
+welcome. The Editor will solicit
+reviews for artifacts received from
+publishers. Prospective reviewers
+are also invited to contact the
+Editor directly.
+FUGITIVE CARTOGRAPHIC
+LITERATURE
+Information of interest to map
+makers, librarians, and educators
+appears in diverse publications.
+We invite synopses of reviews,
+news, and papers found in outlets
+not usually associated with
+cartography, map librarianship, or
+geography.                        
+TECHNICAL GUIDELINES
+FOR SUBMISSION
+Cartographic Per,pccfh>cs is designed 
+and produced in a microcomputer environment. Therefore,
+contributions to er should be
+submitted in digital form on 3..5"
+diskettes. Please send a paper
+copy along with the disk, in case it
+is damaged in transit.
+Text documents processed with
+Macintosh software such as
+WriteNow, WordPerfect, Word, and
+Mac Write are preferred, as well as
+documents generated on IBM PCs
+and compatibles using
+WordPerfect or Word. ASCH text
+files are also acceptable.
+PostScript graphics generated
+with Adobe J//11strafor or Aldus
+FreeHnnd for the \itacintosh or
+Corel Systems' Corel Draw for DOS
+computers are preferred, but
+generic PICT or TIFF format
+graphics files are usually compatible as well.
+For those lacking access to
+microcomputers, typed submissions will be cheerfully accepted.
+Manually produced graphics
+should be no larger than 11 by 17
+inches, designed for scanning at
+600 dpi resolution (avoid finegrained 
+tint screens). Continuoustone photographs will also be
+sca nned.
+Literature cited should conform
+to the Chicago Manual of Style,
+13th ed., University of Chicago
+Press, Chapter 16, style "B".
+Examples of the correct citation
+form appear in the feature articles
+of this issue.
+Submissions may be sent to:
+Sona Karentz Andrews, Department of Geography, 208 Sabin
+Hall, 3413  . Downer Avenue,
+University of Wisconsin-Milwaukee, Milwaukee, WI 53211; (414)
+229-!872, fa\. (414) 229-3981; email: sona@csd4.csd.uwm.edu.          
+Cartogrnplzic Perspectives
+EDITORIAL BOARD
+M icliacl Pcterso11
+University of NebraskaOmaha
+Charles Rader
+Michigan State University
+Na11cy Ryck1111111
+University of North CarolinaGreensboro
+0 0111111 Scl1c11sl ro111
+University of WisconsinMilwaukee
+Marsha Selmer
+University of Illinois-Chicago
+COLOPHON
+This document was desktoppublished at the Department of
+Geography, University of Wisconsin-Milwaukee, using Macintosh
+Ilci computers. Word processing
+was accomplished primarily with
+Word 4.0; page layout with
+PageMaker 4.2. Graphics not
+rendered with Aldus FreeHaJ1d 3.1
+were scanned from paper originals. 
+The PngeMaker document
+was output by an Agfa ProSet 9800
+at 2400 dpi. The bulletin was
+printed by offset lithography on
+Warren Patina 70# text stock. Text
+type is set in Palatino, a face
+designed by Herman Zapf. The
+issue number dictated black as the
+cover color. 
+Number 13, Fall 1992                   cartograplzic perspectives                        35
+NACIS membership form
+North American Cartographic Information Society
+Sociedad de Informaci6n Cartografica Norte Americana
+ame/ rombre:
+Address/Direcci6n:
+Organization/ Afiliaci6n profesional:
+Your position/ Posici6n:
+Cartographic interests/ Intereses cartograficos:
+Professional memberships/ Socio de organizaci6n:
+Membership Fees for the CalendaI Year*/
+Valor de n6mina de socios paia el afio:
+Individual/Regular: $28.00 U.S./ E.U.
+Students/Estudiantes: $8.00 U.S./E.U.
+Institutional/Miembros institucionales:
+$58.00 U.S./E.U.
+Make all checks payable to/
+Manden sus cheques a:
+NACIS
+c/ o Edward J. Hall, Treasurer
+Map Library
+410 McGilvrey Hall
+Kent State University
+Kent, OH 44242-0001
+*Membership fees include subscription to Cartograpltic Perspectives. 
+The North American Cartographic Information Society
+(NACIS) was founded in 1980 in response to the need for a multidisciplinary
+organization to facilitate communication in the map information community. 
+Principal objectives of NACIS are:                         
+§ to promote communication, coordination, and cooperation
+among the producers, disseminators, curators,
+and users of cartographic information;                               
+§ to support and coordinate activities with other professional
+organizations and institutions involved with
+cartographic information;
+§to improve the use of cartographic materials through
+education and to promote graphicacy;
+§to promote and coordinate the acquisition, preservation,
+and automated retrieval of all types of cartographic material;                                 
+§ to influence government policy
+on cartographic information.
+NACIS is a professional society open to specialists from private, academic,
+and government organizations throughout North America. The society
+provides an opportunity for Map Makers, Map Keepers, Map Users, Map
+Educators, and Map Distributors to exchange ideas, coordinate activities, and
+improve map materials and map use.  Cartographic Perspectives, the
+organization's Bulletin, provides a mechanism to facilitate timely
+dissemination of cartographic information to this diverse constituency. It
+includes solicited feature articles, synopses of articles appearing in obscure
+or non-cartographic publications, software reviews, news features, reports
+(conferences, map exhibits, new map series, government policy, new degree
+programs, etc.), and listings of published maps and atlases, new computer
+software, and software reviews.
+Department of Geography
+University of Wisconsin-Milwaukee
+P.O. BOX413
+Milwaukee, WI 53201                                                           
+NONPROFIT ORG.
+U.S. POSTAGE
+PAID
+MILWAUKEE, WI
+PERMIT NO. 864 
