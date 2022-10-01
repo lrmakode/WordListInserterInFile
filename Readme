@@ -1,0 +1,9 @@
+I have created this project to generate test data.
+I have aimed to achive follow functionalites.
+
+1. Insert List of Words at Random Palces input txt file.
+   Desc. : If provied list of words file doesnot contain no of occurences of words
+            each word will be inserted only once.
+
+
+
