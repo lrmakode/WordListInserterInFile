@@ -1,21 +1,20 @@
+#pragma once
 #include <memory>
-#include <list>
-#include <string>
 #include "RETURN_CODES.h"
+#include "Util.h"
+using namespace std;
 namespace Lrmakode{
-    using namespace std;
-    typedef list<string> fileWordList;
-    typedef unique_ptr<fileWordList> fileWordListUPtr;
     class Processor
     {
         public:
             Processor()
             {
-                fileWordListUPtr lTmp(new fileWordList);
-                mFileWordList = move(lTmp);
+                mFileWordList = nullptr;
             }
             RETURN_CODES initFromFile(std::string pstrFilePath);
             RETURN_CODES saveToFile(std::string pstrOutPutFile);
+            RETURN_CODES insertWordsFromMap(wordMapUPtr pUptr);
+            RETURN_CODES print();
             virtual ~Processor(){}
         private:
             fileWordListUPtr mFileWordList;

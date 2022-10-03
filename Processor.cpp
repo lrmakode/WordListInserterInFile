@@ -1,33 +1,45 @@
 #include "Processor.h"
 #include <iostream>
-#include <fstream>
+#include <cstdlib>
 using namespace Lrmakode;
 using namespace std;
 RETURN_CODES Processor::initFromFile(std::string pstrFilePath)
 {
-    string word, t, q, filename;
-    fstream file;
-    // opening file
-    file.open(pstrFilePath.c_str());
-    // extracting words from the file
-    while (file >> word)
-    {
-        mFileWordList->push_back(word);
-        //cout << word << endl;
-    }
-    //cout<<"Size of List::"<<mFileWordList->size()<<endl;
+    mFileWordList = std::move(Util::getListOfWordFromFile(pstrFilePath));
     return RETURN_CODES::SUCESS;
 }
 
 RETURN_CODES Processor::saveToFile(std::string pstrOutPutFile)
 {
-    fstream file;
-    file.open(pstrOutPutFile.c_str());
     for(auto var: *mFileWordList)
     {
-        file << var;
         cout<<var<<" ";
     }
-    file.close();
     return  RETURN_CODES::FAILED;
+}
+
+RETURN_CODES Processor::insertWordsFromMap(wordMapUPtr pUptr)
+{
+    cout<<mFileWordList->size()<<endl;
+    srand(time(0));
+    for(auto item: *pUptr)
+    {
+        for(int i=0; i < item.second ;i++)
+        {
+            int index = rand()%(mFileWordList->size()-1);
+            fileWordListIterator it = mFileWordList->begin(); 
+            advance(it, index);
+            mFileWordList->insert(it,item.first); 
+        }
+    }
+    cout<<mFileWordList->size()<<endl;
+}
+
+RETURN_CODES Processor::print()
+{
+    for(auto item: *mFileWordList)
+    {
+        cout<<item<<endl;
+    }
+
 }
