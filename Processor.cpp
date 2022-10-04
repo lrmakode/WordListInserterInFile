@@ -1,6 +1,7 @@
 #include "Processor.h"
 #include <iostream>
 #include <cstdlib>
+#include <fstream>
 using namespace Lrmakode;
 using namespace std;
 RETURN_CODES Processor::initFromFile(std::string pstrFilePath)
@@ -11,10 +12,15 @@ RETURN_CODES Processor::initFromFile(std::string pstrFilePath)
 
 RETURN_CODES Processor::saveToFile(std::string pstrOutPutFile)
 {
+    ofstream outFile(pstrOutPutFile);
+    int i = 0;
     for(auto var: *mFileWordList)
     {
-        cout<<var<<" ";
+        outFile << var << " ";
+        if(i%15 == 0)
+            outFile << endl;
     }
+    outFile.close();
     return  RETURN_CODES::FAILED;
 }
 
