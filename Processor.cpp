@@ -27,7 +27,7 @@ RETURN_CODES Processor::saveToFile(std::string pstrOutPutFile)
 RETURN_CODES Processor::insertWordsFromMap(wordMapUPtr pUptr)
 {
     cout<<mFileWordList->size()<<endl;
-    srand(time(0));
+    srand((unsigned int)time(0));
     for(auto item: *pUptr)
     {
         for(int i=0; i < item.second ;i++)
@@ -39,6 +39,7 @@ RETURN_CODES Processor::insertWordsFromMap(wordMapUPtr pUptr)
         }
     }
     cout<<mFileWordList->size()<<endl;
+    return RETURN_CODES::SUCESS;
 }
 
 RETURN_CODES Processor::print()
@@ -47,5 +48,5 @@ RETURN_CODES Processor::print()
     {
         cout<<item<<endl;
     }
-
+    return RETURN_CODES::SUCESS;
 }
